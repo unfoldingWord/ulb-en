@@ -1,9 +1,33 @@
 {
-  "books_published": [
-    "tit", 
-    "luk", 
-    "rut"
-  ], 
+  "books_published": {
+    "luk": {
+      "desc": "", 
+      "meta": [
+        "Bible: NT", 
+        "Bible", 
+        "New Testament"
+      ], 
+      "name": "Luke"
+    }, 
+    "rut": {
+      "desc": "", 
+      "meta": [
+        "Bible: OT", 
+        "Bible", 
+        "Old Testament"
+      ], 
+      "name": "Ruth"
+    }, 
+    "tit": {
+      "desc": "", 
+      "meta": [
+        "Bible: NT", 
+        "Bible", 
+        "New Testament"
+      ], 
+      "name": "Titus"
+    }
+  }, 
   "date_modified": "20150205", 
   "lang": "en", 
   "name": "unfoldingWord Literal Bible", 
