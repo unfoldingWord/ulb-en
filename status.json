@@ -1,0 +1,15 @@
+{
+  "date_modified": "20150205", 
+  "name": "unfoldingWord Literal Bible", 
+  "slug": "ulb", 
+  "status": {
+    "checking_entity": "Wycliffe Associates", 
+    "checking_level": "3", 
+    "comments": "Original source text", 
+    "contributors": "Wycliffe Associates", 
+    "publish_date": "20150205", 
+    "source_text": "en", 
+    "source_text_version": "2.0.0-beta2", 
+    "version": "2.0.0-beta2"
+  }
+}
