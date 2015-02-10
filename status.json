@@ -1,34 +1,84 @@
 {
   "books_published": {
+    "1ti": {
+      "desc": "", 
+      "meta": [
+        "Bible: NT"
+      ], 
+      "name": "1 Timothy"
+    }, 
+    "2ti": {
+      "desc": "", 
+      "meta": [
+        "Bible: NT"
+      ], 
+      "name": "2 Timothy"
+    }, 
+    "act": {
+      "desc": "", 
+      "meta": [
+        "Bible: NT"
+      ], 
+      "name": "Acts"
+    }, 
+    "gen": {
+      "desc": "", 
+      "meta": [
+        "Bible: OT"
+      ], 
+      "name": "Genesis"
+    }, 
+    "jas": {
+      "desc": "", 
+      "meta": [
+        "Bible: NT"
+      ], 
+      "name": "James"
+    }, 
+    "jud": {
+      "desc": "", 
+      "meta": [
+        "Bible: NT"
+      ], 
+      "name": "Jude"
+    }, 
     "luk": {
       "desc": "", 
       "meta": [
-        "Bible: NT", 
-        "Bible", 
-        "New Testament"
+        "Bible: NT"
       ], 
       "name": "Luke"
+    }, 
+    "phm": {
+      "desc": "", 
+      "meta": [
+        "Bible: NT"
+      ], 
+      "name": "Philemon"
+    }, 
+    "rev": {
+      "desc": "", 
+      "meta": [
+        "Bible: NT"
+      ], 
+      "name": "Revelation"
     }, 
     "rut": {
       "desc": "", 
       "meta": [
-        "Bible: OT", 
-        "Bible", 
-        "Old Testament"
+        "Bible: OT"
       ], 
       "name": "Ruth"
     }, 
     "tit": {
       "desc": "", 
       "meta": [
-        "Bible: NT", 
-        "Bible", 
-        "New Testament"
+        "Bible: NT"
       ], 
       "name": "Titus"
     }
   }, 
-  "date_modified": "20150205", 
+  "date_modified": "20150210", 
   "lang": "en", 
   "name": "unfoldingWord Literal Bible", 
   "slug": "ulb", 
@@ -37,9 +87,9 @@
     "checking_level": "3", 
     "comments": "Original source text", 
     "contributors": "Wycliffe Associates", 
-    "publish_date": "20150205", 
+    "publish_date": "20150210", 
     "source_text": "en", 
-    "source_text_version": "2.0.0-beta2", 
-    "version": "2.0.0-beta2"
+    "source_text_version": "2.0.0-beta3", 
+    "version": "2.0.0-beta3"
   }
 }
