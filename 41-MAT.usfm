@@ -1,11 +1,10 @@
-
 \id MAT Unlocked Literal Bible
 \ide UTF-8
 \h Matthew 
-\toc1 The Gospel According to St. Matthew
-\toc2 Matthew 
+\toc1 The Gospel of Matthew
+\toc2 Matthew
 \toc3 Mat 
-\mt The Gospel According to St. Matthew
+\mt The Gospel According to Matthew
 
 
 \s5
@@ -13,7 +12,7 @@
 \p
 \v 1 The book of the genealogy of Jesus Christ son of David son of Abraham.
 \v 2 Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers. 
-\v 3 Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram.
+\v 3 Judah was the father of Perez and Zerah by Tamar, Perez the father of Hezron, and Hezron the father of Ram. 
 
 \s5
 \v 4 Ram was the father of Amminadab, Amminadab the father of Nahshon, and Nahshon the father of Salmon.
@@ -59,7 +58,7 @@
 
 \s5
 \v 24 Joseph woke up from his sleep and did as the angel of the Lord commanded him and he took her as his wife.
-\v 25 However, he did not sleep with her until she gave birth to a son. And he called his name Jesus.
+\v 25 But he did not have sexual relations with her until she gave birth to a son. And he called his name Jesus.
 
 \s5
 \c 2
@@ -147,7 +146,7 @@
 \s5
 \p
 \v 13 Then Jesus came from Galilee to the Jordan River to be baptized by John.
-\v 14 But John would have stopped him, saying, "I need to be baptized by you, and do you come to me?"
+\v 14 But John kept trying to stop him, saying, "I need to be baptized by you, and do you come to me?"
 \v 15 Jesus responded and said to him, "Permit it now, for it is right for us to fulfill all righteousness." Then John permitted him.
 
 \s5
@@ -178,8 +177,8 @@
 
 \s5
 \v 10 Then Jesus said to him, "Go away from here, Satan! For it is written, 
-\q 'You must worship the Lord your God, 
-\q and you must serve him only.'"
+\q 'You will worship the Lord your God, 
+\q and you will serve him only.'"
 \p
 \v 11 Then the devil left him, and behold, angels came and served him.
 
@@ -195,14 +194,14 @@
 \q1 toward the sea, beyond the Jordan,
 \q1 Galilee of the Gentiles!
 \q1
-\v 16 The people who  sat in darkness
+\v 16 The people who sat in darkness
 \q1 have seen a great light,
 \q1 and to those who sat in the region and shadow of death,
 \q1 upon them has a light arisen."
 
 \s5
 \p
-\v 17 From that time Jesus began to preach and say, "Repent, for the kingdom of heaven has drawn near."
+\v 17 From that time Jesus began to preach and say, "Repent, for the kingdom of heaven has come near."
 
 \s5
 \v 18 As he was walking by the Sea of Galilee, he saw two brothers, Simon who is called Peter, and Andrew his brother, casting a net into the sea, for they were fishermen.
@@ -261,7 +260,7 @@
 
 \s5
 \p
-\v 13 You are the salt of the earth. But if the salt has lost its taste, how can it be made salty again? It is never again good for anything, except to be thrown out and trampled under by people's feet.
+\v 13 You are the salt of the earth. But if the salt has lost its taste, how can it be made salty again? It is never again good for anything except to be thrown out and trampled under people's feet.
 \v 14 You are the light of the world. A city set on a hill cannot be hidden.
 
 \s5
@@ -328,6 +327,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \p
 \v 43 You have heard that it was said, 'You will love your neighbor and hate your enemy.'
 \v 44 But I say to you, love your enemies and pray for those who persecute you,
+\f + The best ancient copies omit \fqa "Bless those who curse you, do good to those who hate you."\f*
 \v 45 so that you may be sons of your Father who is in heaven. For he makes his sun to rise on the evil and the good, and sends rain on the just and the unjust.
 
 \s5
@@ -355,10 +355,10 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 8 Therefore, do not be like them, for your Father knows what things you need before you ask him.
 \v 9 Therefore pray like this: 
 \q 'Our Father in heaven, 
-\q2 sanctify your name.
+\q2 may your name be sanctified.
 \q2
-\v 10 Your kingdom come, 
-\q2 your will be done 
+\v 10 May your kingdom come.
+\q2 May your will be done 
 \q2 on earth as it is in heaven.
 \q2 
 
@@ -370,6 +370,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \q2 
 \v 13 And do not bring us into temptation, 
 \q2 but deliver us from the evil one.'
+\f + The best ancient copies omit \fqa "For yours is the kingdom and the power and the glory forever. Amen"\f*
 \m
 
 \s5
@@ -409,7 +410,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \v 32 For the Gentiles search for these things, and your heavenly Father knows that you need them.
 \v 33 But seek first his kingdom and his righteousness and all these things will be given to you.
-\v 34 Therefore, do not be anxious for tomorrow, for tomorrow will be anxious for itself. Each day has enough trouble of its own. 
+\v 34 Therefore, do not be anxious for tomorrow, for tomorrow will be anxious for itself. Each day has enough evil of its own. 
 
 \s5
 \c 7
@@ -429,7 +430,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \p
 \v 7 Ask, and it will be given to you. Seek, and you will find. Knock, and it will be opened to you.
 \v 8 For everyone who asks, receives. And everyone who seeks, finds. And to the person who knocks, it will be opened.
-\v 9 Or what man among you is there who, if his son asks him for a loaf of bread, will give him a stone?
+\v 9 Or is there any man among you who, if his son will ask him for a loaf of bread, will he give him a stone?
 \v 10 Or if he asks for a fish, will give him a snake?
 
 \s5
@@ -494,7 +495,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \v 11 I tell you, many will come from the east and the west, and they will recline at the table with Abraham, Isaac, and Jacob, in the kingdom of heaven.
-\v 12 But the sons of the kingdom will be thrown into the outer darkness,  where there will be weeping and grinding of teeth."
+\v 12 But the sons of the kingdom will be thrown into the outer darkness, where there will be weeping and grinding of teeth."
 \v 13 Jesus said to the centurion, "Go! As you have believed, so may it be done for you." And the servant was healed at that very hour.
 
 \s5
@@ -550,7 +551,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 3 Behold, some of the scribes said among themselves, "This man is blaspheming."
 \v 4 Jesus knew their thoughts and said, "Why are you thinking evil in your hearts?
 \v 5 For which is easier to say, 'Your sins are forgiven,' or to say, 'Get up and walk'?
-\v 6 But that you may know that the Son of Man has authority on earth to forgive sins,..." he said to the paralytic, "Get up, pick up your mat, and go to your house."
+\v 6 But that you may know that the Son of Man has authority on earth to forgive sins, ... " he said to the paralytic, "Get up, pick up your mat, and go to your house."
 
 \s5
 \v 7 Then the man got up and went away to his house.
@@ -585,7 +586,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \v 20 Behold, a woman who had severe bleeding for twelve years, came up behind Jesus and touched the edge of his garment.
 \v 21 For she had said to herself, "If only I touch his clothes, I will be made well."
-\v 22 But Jesus turned and saw her, and said, "Daughter, take courage. Your faith has made you well." And the woman was  instantly made well.
+\v 22 But Jesus turned and saw her, and said, "Daughter, take courage. Your faith has made you well." And the woman was instantly made well.
 
 \s5
 \v 23 When Jesus came into the official's house, he saw the flute players and the crowds making much noise.
@@ -634,11 +635,11 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \p
 \v 5 These twelve Jesus sent out. He instructed them and said, "Do not go to any place where Gentiles live, and do not enter any town of the Samaritans.
 \v 6 Go instead to the lost sheep of the house of Israel.
-\v 7 And as you go, preach and say, 'The kingdom of heaven has drawn near.'
+\v 7 And as you go, preach and say, 'The kingdom of heaven has come near.'
 
 \s5
 \v 8 Heal the sick, raise the dead, cleanse the lepers, and cast out demons. Freely you have received, freely give.
-\v 9 Do not carry any gold, silver, or  brass in your purses.
+\v 9 Do not carry any gold, silver, or brass in your purses.
 \v 10 Do not take a traveling bag for your journey, or an extra tunic, or sandals, or a staff, for a laborer deserves his food.
 
 \s5
@@ -671,7 +672,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 25 It is enough for the disciple that he should be like his teacher, and the servant like his master. If they have called the master of the house Beelzebul, how much more would they defame his household!
 
 \s5
-\v 26 Therefore do not fear them, for there is nothing concealed that will not be revealed, and nothing hidden that will not be  known.
+\v 26 Therefore do not fear them, for there is nothing concealed that will not be revealed, and nothing hidden that will not be known.
 \v 27 What I tell you in the darkness, say in the daylight, and what you hear softly in your ear, proclaim upon the housetops.
 
 \s5
@@ -687,7 +688,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \p
 \v 34 Do not think that I came to bring peace upon the earth. I did not come to bring peace, but a sword.
-\v 35 For I came to set a man against his father, and a daughter against her mother, and a  daughter-in-law against her mother-in-law.
+\v 35 For I came to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.
 \v 36 A man's enemies will be those of his own household.
 
 \s5
@@ -717,7 +718,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 7 As these men went on their way, Jesus began to say to the crowds about John, "What did you go out  in the desert to see—a reed being shaken by the wind?
+\v 7 As these men went on their way, Jesus began to say to the crowds about John, "What did you go out in the desert to see—a reed being shaken by the wind?
 \v 8 But what did you go out to see—a man dressed in soft clothing? Really, those who wear soft clothing live in kings' houses.
 
 \s5
@@ -876,7 +877,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \v 48 But Jesus answered and said to him who told him, "Who is my mother? And who are my brothers?"
 \v 49 Then he stretched out his hand toward his disciples and said, "See, here are my mother and my brothers!
-\v 50 For whoever does the will of my Father who is in heaven, that person is my brother, and sister, and  mother."
+\v 50 For whoever does the will of my Father who is in heaven, that person is my brother, and sister, and mother."
 
 \s5
 \c 13
@@ -1012,7 +1013,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \c 14
 \p
 \v 1 About that time, Herod the tetrarch heard the news about Jesus.
-\v 2 He said to his servants, "This is John the Baptist; he has risen from the dead. Therefore these powers are at work in him."
+\v 2 He said to his servants, "This is John the Baptist; he has risen from the dead ones. Therefore these powers are at work in him."
 
 \s5
 \v 3 For Herod had laid hold upon John, bound him, and put him in prison because of Herodias, his brother Philip's wife.
@@ -1068,7 +1069,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \v 31 Jesus immediately stretched out his hand, took hold of Peter, and said to him, "You of little faith, why did you doubt?"
-\v 32 Then when Jesus and Peter went into the boat, the wind ceased  blowing. 
+\v 32 Then when Jesus and Peter went into the boat, the wind ceased blowing. 
 \v 33 Then the disciples in the boat worshiped Jesus and said, "Truly you are the Son of God."
 
 \s5
@@ -1125,12 +1126,12 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 23 But Jesus answered her not a word. His disciples came and begged him, saying, "Send her away, for she is shouting after us."
 
 \s5
-\v 24 But Jesus answered and said, "I was not sent to anyone except  to the lost sheep of the house of Israel."
+\v 24 But Jesus answered and said, "I was not sent to anyone except to the lost sheep of the house of Israel."
 \v 25 But she came and bowed down before him, saying, "Lord, help me."
 \v 26 He answered and said, "It is not right to take the children's bread and throw it to the little dogs."
 
 \s5
-\v 27 She said, "Yes, Lord, but  even the little dogs eat some of the crumbs that fall from their masters' tables."
+\v 27 She said, "Yes, Lord, but even the little dogs eat some of the crumbs that fall from their masters' tables."
 \v 28 Then Jesus answered and said to her, "Woman, great is your faith. Let it be done for you just as you wish." And her daughter was healed at that hour.
 
 \s5
@@ -1194,7 +1195,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 21 From that time Jesus started to tell his disciples that he must go to Jerusalem, suffer many things at the hand of  the elders and chief priests and scribes, be killed, and be raised back to life on the third day.
+\v 21 From that time Jesus started to tell his disciples that he must go to Jerusalem, suffer many things at the hand of the elders and chief priests and scribes, be killed, and be raised back to life on the third day.
 \v 22 Then Peter took him aside and rebuked him, saying, "May this be far from you, Lord; may this never happen to you."
 \v 23 But Jesus turned and said to Peter, "Get behind me, Satan! You are a stumbling block to me, for you do not care for the things of God, but for the things of people."
 
@@ -1225,7 +1226,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 9 As they were coming down  the mountain, Jesus commanded them, saying, "Report this vision to no one until the Son of Man has risen from the dead."
+\v 9 As they were coming down the mountain, Jesus commanded them, saying, "Report this vision to no one until the Son of Man has risen from the dead ones."
 \v 10 His disciples asked him, saying, "Why then do the scribes say that Elijah must come first?"
 
 \s5
@@ -1240,7 +1241,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 16 I brought him to your disciples, but they could not cure him."
 
 \s5
-\v 17 Jesus answered and said, "Unbelieving and corrupt generation, how long will I have to stay  with you? How long must I bear with you? Bring him here to me."
+\v 17 Jesus answered and said, "Unbelieving and corrupt generation, how long will I have to stay with you? How long must I bear with you? Bring him here to me."
 \v 18 Jesus rebuked him, and the demon went out of him. The boy was cured from that hour.
 
 \s5
@@ -1251,24 +1252,24 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 22 While they stayed in Galilee, Jesus said to his disciples, "The Son of Man will be delivered over  into the hands of people.
+\v 22 While they stayed in Galilee, Jesus said to his disciples, "The Son of Man will be delivered over into the hands of people.
 \v 23 And they will kill him, and the third day he will be raised up." The disciples became very sad. 
 
 \s5
 \p
-\v 24 When they had come to Capernaum, the men who collected the half shekel tax came to Peter and said, "Does not your teacher pay the half shekel tax?"
+\v 24 When they had come to Capernaum, the men who collected the half-shekel tax came to Peter and said, "Does not your teacher pay the half-shekel tax?"
 \v 25 He said, "Yes." But when Peter went into the house, Jesus spoke first to him and said, "What do you think, Simon? The kings on earth, from whom do they receive tax or tribute? From their subjects or from foreigners?"
 
 \s5
 \v 26 When Peter said, "From foreigners," Jesus said to him, "Then the subjects are exempt from paying.
-\v 27 But lest we cause the tax collectors to sin, go to the sea, throw in a hook, and draw in the fish that comes up first. When you have opened its mouth, you will find a shekel. Take it and give it to the tax collectors for me and you."
+\v 27 But so that we do not cause the tax collectors to sin, go to the sea, throw in a hook, and draw in the fish that comes up first. When you have opened its mouth, you will find a shekel. Take it and give it to the tax collectors for me and you."
 
 \s5
 \c 18
 \p
 \v 1 In that same time the disciples came to Jesus and said, "Who is greatest in the kingdom of heaven?"
 \v 2 Jesus called to himself a little child, set him among them,
-\v 3 and said, "Truly I say to you, unless you repent and become like little children, you will in no way enter the kingdom of heaven.
+\v 3 and said, "Truly I say to you, unless you turn and become like little children, you will in no way enter the kingdom of heaven.
 
 \s5
 \v 4 So whoever humbles himself like this little child, the same person is the greatest in the kingdom of heaven.
@@ -1278,10 +1279,10 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \p
 \v 7 Woe to the world because of times of stumbling! For it is necessary that those times come, but woe to the person through whom those times come!
-\v 8 If your hand or your foot causes you to stumble, cut it off and throw it away from you. It is better for you to enter into life maimed or lame, than to be thrown into the eternal fire having both hands or both feet.
+\v 8 If your hand or your foot causes you to stumble, cut it off and throw it away from you. It is better for you to enter into life maimed or lame than to be thrown into the eternal fire having both hands or both feet.
 
 \s5
-\v 9 If your eye causes you to stumble, pluck it out and throw it away from you. It is better for you to enter into life with one eye, than to be thrown into the eternal fire having both eyes.
+\v 9 If your eye causes you to stumble, pluck it out and throw it away from you. It is better for you to enter into life with one eye than to be thrown into the eternal fire having both eyes.
 
 \s5
 \v 10 See that you do not despise any of these little ones. For I say to you that in heaven their angels always look on the face of my Father who is in heaven.
@@ -1347,7 +1348,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 4 Jesus answered and said, "Have you not read, that he who made them from the beginning made them male and female?
 
 \s5
-\v 5 And that he also said, 'For this reason a man will leave his father and mother and join to his wife, and the two will become one flesh?'
+\v 5 And he who made them also said, 'For this reason a man will leave his father and mother and join to his wife, and the two will become one flesh'?
 \v 6 So they are no longer two, but one flesh. Therefore what God has joined together, let no one tear apart."
 
 \s5
@@ -1372,13 +1373,13 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 17 Jesus said to him, "Why do you ask me about what is good? Only one is good, but if you want to enter into life, keep the commandments."
 
 \s5
-\v 18 The man said to him, "Which  commandments?" Jesus said, "Do not kill, do not commit adultery, do not steal, do not bear false witness,
+\v 18 The man said to him, "Which commandments?" Jesus said, "Do not kill, do not commit adultery, do not steal, do not bear false witness,
 \v 19 honor your father and your mother, and love your neighbor as yourself."
 
 \s5
 \v 20 The young man said to him, "All these things I have obeyed. What do I still need?"
 \v 21 Jesus said to him, "If you wish to be perfect, go, sell what you have, and give it to the poor, and you will have treasure in heaven. Then come, follow me."
-\v 22 But when the young man heard what Jesus said, he went away sorrowful, for he was one with great  possessions.
+\v 22 But when the young man heard what Jesus said, he went away sorrowful, for he was one with great possessions.
 
 \s5
 \p
@@ -1400,7 +1401,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \c 20
 \p
-\v 1 For the kingdom of heaven is like a landowner, who went out early in the morning to hire workers for his vineyard.
+\v 1 For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard.
 \v 2 After he had agreed with the workers for one denarius a day, he sent them into his vineyard.
 
 \s5
@@ -1410,62 +1411,64 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \v 5 Again he went out about the sixth hour and again the ninth hour, and did the same.
 \v 6 Once more about the eleventh hour he went out and found others standing idle. He said to them, 'Why do you stand here idle all the day long?'
-\v 7 They said to him, 'Because no one has hired us.' He said to them, ' You, too, go into the vineyard.'
+\v 7 They said to him, 'Because no one has hired us.' He said to them, 'You also go into the vineyard.'
 
 \s5
-\v 8 When the evening came, the owner of the vineyard said to his manager, 'Call the workers and pay them their wages, beginning from the last to the first.'
+\v 8 When evening came, the owner of the vineyard said to his manager, 'Call the workers and pay them their wages, beginning from the last to the first.'
 \v 9 When the workers who had been hired at the eleventh hour came, each of them received a denarius.
 \v 10 When the first workers came, they thought that they would receive more, but they also received one denarius each.
 
 \s5
-\v 11 When they received their wages, they complained about the property owner. 
+\v 11 When they received their wages, they complained about the landowner. 
 \v 12 They said, 'These last workers have spent only one hour in work, but you have made them equal to us, we who have borne the burden of the day and the scorching heat.'
 
 \s5
 \v 13 But the owner answered and said to one of them, 'Friend, I do you no wrong. Did you not agree with me for one denarius?
-\v 14 Receive what belongs to you and go your way. It is my pleasure to give to these last hired workers just the same as to you.
+\v 14 Take what belongs to you and go your way. I choose to give to these last hired workers just the same as to you.
 
 \s5
 \v 15 Is it not legitimate for me to do what I wish with my own possessions? Or is your eye evil because I am good?'
 \v 16 So the last will be first, and the first last."
+\f + The best ancient copies omit \fqa "Many are called, but few are chosen." \f*
 
 \s5
 \p
-\v 17 As Jesus was going up to Jerusalem, he took the Twelve aside, and on the way he said to them,
+\v 17 As Jesus was going up to Jerusalem, he took the twelve aside, and on the way he said to them,
 \v 18 "See, we are going up to Jerusalem, and the Son of Man will be delivered to the chief priests and scribes. They will condemn him to death
-\v 19 and will deliver him to the Gentiles for them to mock him, flog him, and crucify him. But on the third day he will be raised up."
+\v 19 and will deliver him to the Gentiles for them to mock, to flog, and to crucify him. But on the third day he will be raised up."
 
 \s5
 \p
 \v 20 Then the mother of the sons of Zebedee came to Jesus with her sons. She bowed down before him and asked for something from him.
-\v 21 Jesus said to her, "What do you wish?" She said to him, "Command that these my two sons may sit, one at your right hand, and one at your left hand, in your kingdom."
+\v 21 Jesus said to her, "What do you wish?" She said to him, "Command that these my two sons may sit, one at your right hand and one at your left hand, in your kingdom."
 
 \s5
-\v 22 But Jesus answered and said, "You do not know what you are asking. Are you able to drink the cup which I am about to drink?" They said to him, "We are able."
+\v 22 But Jesus answered and said, "You do not know what you are asking. Are you able to drink the cup that I am about to drink?" They said to him, "We are able."
 \v 23 He said to them, "My cup you will indeed drink. But to sit at my right hand and at my left hand is not mine to give, but it is for those for whom it has been prepared by my Father."
 \v 24 When the other ten disciples heard this, they were very displeased with the two brothers.
 
 \s5
 \v 25 But Jesus called them to himself and said, "You know that the rulers of the Gentiles subjugate them, and their important men exercise authority over them.
 \v 26 But it must not be this way among you. Instead, whoever wishes to become great among you must be your servant.
-\v 27 And whoever wishes to be first among you must be your servant.
-\v 28 Just as the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many."
+\v 27 And whoever wishes to be first among you must be your servant,
+\v 28 just as the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many."
 
 \s5
 \p
 \v 29 As they went out from Jericho, a great crowd followed him.
-\v 30 And they saw two blind men were sitting by the road. When they heard that Jesus was passing by, they shouted out and said, "Lord, Son of David, have mercy on us."
-\v 31 But the crowd rebuked them, telling them to be quiet. However, they cried out all the more and said, "Lord, Son of David, have mercy on us."
+\v 30 And two blind men were sitting by the road. When they heard that Jesus was passing by, they shouted, "Lord, Son of David, have mercy on us."
+\v 31 The crowd rebuked them, telling them to be quiet, but they cried out all the more and said, "Lord, Son of David, have mercy on us."
 
 \s5
 \v 32 Then Jesus stood still and called to them and said, "What do you wish me to do for you?"
 \v 33 They said to him, "Lord, that our eyes may be opened."
 \v 34 Then Jesus, being moved with compassion, touched their eyes. Immediately they received their sight and followed him.
+	
 
 \s5
 \c 21
 \p
-\v 1 As Jesus and his disciples drew near to Jerusalem and came to Bethphage, to the Mount of Olives, then Jesus sent two disciples,
+\v 1 As Jesus and his disciples approached Jerusalem and came to Bethphage, to the Mount of Olives, then Jesus sent two disciples,
 \v 2 saying to them, "Go into the next village, and you will immediately find a donkey tied up there, and a colt with her. Untie them and bring them to me.
 \v 3 If anyone says anything to you about that, you will say, 'The Lord has need of them,' and that person will immediately send them with you."
 
@@ -1473,53 +1476,53 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 4 Now this came about that what was spoken through the prophet might be fulfilled. He said,
 \q
 \v 5 "Tell the daughter of Zion,
-\q See, your King is coming to you, 
+\q 'See, your King is coming to you, 
 \q Humble and riding on a donkey,
-\q And on a colt, the foal of a donkey."
+\q And on a colt, the foal of a donkey.'"
 \m
 
 \s5
 \v 6 Then the disciples went and did just as Jesus had instructed them.
-\v 7 They brought the donkey and the colt, and put their garments on them, and Jesus sat there.
-\v 8 Most of the crowd spread their garments on the road, and others cut branches from the trees and spread them in the road.
+\v 7 They brought the donkey and the colt and put their cloaks on them, and Jesus sat upon the cloaks.
+\v 8 Most of the crowd spread their cloaks on the road, and others cut branches from the trees and spread them in the road.
 
 \s5
 \v 9 The crowds that went before Jesus and those that followed, shouted out, saying, 
 \q "Hosanna to the son of David!
-\q Blessed is the one who comes in the name of the Lord. 
+\q Blessed is the one who comes in the name of the Lord! 
 \q Hosanna in the highest!"
 \m
 \v 10 When Jesus had come into Jerusalem, all the city was stirred and said, "Who is this?"
-\v 11 The crowds answered, "This is Jesus the prophet, from Nazareth in Galilee."
+\v 11 The crowds answered, "This is Jesus the prophet from Nazareth in Galilee."
 
 \s5
 \p
-\v 12 Then Jesus entered the temple of God. He cast out all those who bought and sold in the temple. He also turned over the tables of the money changers and the seats  of those who sold pigeons.
+\v 12 Then Jesus entered the temple. He cast out all those who bought and sold in the temple, and turned over the tables of the money changers and the seats of those who sold doves.
 \v 13 He said to them, "It is written, 'My house will be called a house of prayer,' but you make it a den of robbers."
 \v 14 Then the blind and the lame came to him in the temple, and he healed them.
 
 \s5
 \v 15 But when the chief priests and the scribes saw the marvelous things that he did, and when they heard the children shouting in the temple and saying, "Hosanna to the son of David," they were moved with resentment.
 \v 16 They said to him, "Do you hear what these people are saying?" Jesus said to them, "Yes! But have you never read, 'Out of the mouths of babes and nursing infants you have perfected praise'?"
-\v 17 Then Jesus left them and went out of the city to Bethany and slept there.
+\v 17 Then Jesus left them and went out of the city to Bethany and spent the night there.
 
 \s5
 \p
 \v 18 Now in the morning as he returned to the city, he was hungry.
-\v 19 He saw a fig tree on the roadside. He went to it, but found nothing on it except leaves. He said to it, "May there be no fruit from you ever again." And immediately the fig tree dried up. 
+\v 19 Seeing a fig tree along the roadside, he went to it and found nothing on it except leaves. He said to it, "May there be no fruit from you ever again." And immediately the fig tree dried up. 
 
 \s5
 \v 20 When the disciples saw it, they marveled and said, "How did the fig tree immediately wither away?"
 \v 21 Jesus answered and said to them, "Truly I say to you, if you have faith and do not doubt, you will not only do what was done to this fig tree, but you will even say to this hill, 'Be taken up and thrown into the sea,' and it will be done.
-\v 22 Everything for which you ask in prayer while believing, you will receive."
+\v 22 Whatever you ask for in prayer, believing, you will receive."
 
 \s5
 \p
 \v 23 When Jesus had come into the temple, the chief priests and the elders of the people came to him as he was teaching and said, "By what authority do you do these things? And who gave you this authority?"
-\v 24 Jesus answered and said to them, "I also will  ask you one question. If you tell me, I will likewise tell you the authority with which I do these things.
+\v 24 Jesus answered and said to them, "I also will ask you one question. If you tell me, I will tell you by what authority I do these things.
 
 \s5
-\v 25 The baptism of John—where did it come from, from heaven or from men?" They discussed among themselves, saying, "If we say, 'From heaven,' he will say to us, 'Why then did you not believe him?'
+\v 25 The baptism of John—from where did it come? From heaven or from men?" They discussed among themselves, saying, "If we say, 'From heaven,' he will say to us, 'Why then did you not believe him?'
 \v 26 But if we say, 'From men,' we fear the crowd, because they all view John as a prophet."
 \v 27 Then they answered Jesus and said, " We do not know." He also said to them, "Neither will I tell you by what authority I do these things.
 
@@ -1534,12 +1537,12 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 33 Listen to another parable. There was a man, a person with extensive land. He planted a vineyard, set a hedge about it, dug a winepress in it, built a watchtower, and rented it out to vine growers. Then he went into another country.
-\v 34 When the time of the grape harvest drew near, he sent some servants to the vine growers to get his grapes.
+\v 33 Listen to another parable. There was a man, a landowner. He planted a vineyard, set a hedge about it, dug a winepress in it, built a watchtower, and rented it out to tenant farmers. Then he went into another country.
+\v 34 When the time of the fruit harvest approached, he sent some servants to the vine growers to get his fruit.
 
 \s5
-\v 35 But the vine growers took his servants, beat one, killed another, and stoned still another.
-\v 36 Once more, the owner sent other servants, more than the first, but the vine growers treated them in the same way.
+\v 35 But the tenant farmers took his servants, beat one, killed another, and stoned still another.
+\v 36 Again, the owner sent other servants, more than the first, but the vine growers treated them in the same way.
 \v 37 After that, the owner sent his own son to them, saying, 'They will respect my son.'
 
 \s5
@@ -1555,40 +1558,40 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \q 'The stone which the builders rejected
 \q has been made the cornerstone.
 \q This was from the Lord,
-\q and it is marvelous in our eyes?'
+\q and it is marvelous in our eyes'?
 \m
 
 \s5
-\v 43 Therefore I say to you, the kingdom of God will be taken away from you and will be given to a nation that cultivates its fruits.
-\v 44 Whoever falls on this stone will be broken to pieces. But on whomever it falls, it will crush."
+\v 43 Therefore I say to you, the kingdom of God will be taken away from you and will be given to a nation that produces its fruits.
+\v 44 Whoever falls on this stone will be broken to pieces. But anyone on whom it falls, will be crushed."
 
 \s5
-\v 45 When the chief priests and the Pharisees heard his parables, they saw that he was speaking about them.
-\v 46 But whenever they tried to lay hands on him, they were afraid of the crowd, because the people regarded him as a prophet.
+\v 45 When the chief priests and the Pharisees heard his parables, they understood he was speaking about them.
+\v 46 Seeking to arrest him, they were afraid of the crowd, because the people regarded him as a prophet.
 
 \s5
 \c 22
 \p
 \v 1 Jesus spoke to them again in parables, saying,
-\v 2 "The kingdom of heaven is like a certain king who made a marriage feast for his son.
-\v 3 He sent out his servants to call those who were invited to come to the marriage feast, but they would not come.
+\v 2 "The kingdom of heaven is like a certain king who prepared a marriage feast for his son.
+\v 3 He sent out his servants to call those who had been invited to come to the marriage feast, but they would not come.
 
 \s5
 \v 4 Again the king sent other servants, saying, 'Tell them who are invited, "See, I have prepared my dinner. My oxen and fattened calves have been killed, and all things are ready. Come to the marriage feast."'
 
 \s5
-\v 5 But those people did not treat his invitation seriously. Some went back to their own farms, and others went back to their places of business.
-\v 6 The others laid hands on the king's servants, treated them shamefully, and killed them.
+\v 5 But those did not pay any attention seriously and they went away, one to his farm, another to his business. 
+\v 6 The rest seized the king's servants, treated them shamefully, and killed them.
 \v 7 But the king was angry. He sent his armies, killed those murderers, and burned their city.
 
 \s5
 \v 8 Then he said to his servants, 'The wedding is ready, but those who were invited were not worthy.
-\v 9 Therefore go to the highway crossings and invite as many people as you can find to the marriage feast.'
+\v 9 Therefore go to the highway crossings and invite as many people to the marriage feast as you can find.'
 \v 10 The servants went out to the highways and gathered together all the people they found, both bad and good. So the wedding hall was filled with guests.
 
 \s5
-\v 11 But when the king came in to view the guests, he saw there a man who had not put on a wedding garment.
-\v 12 The king said to him, 'Friend, how did you come in here without a wedding garment?' And the man was speechless.
+\v 11 But when the king came in to view the guests, he saw there a man was not dressed in wedding clothes.
+\v 12 The king said to him, 'Friend, how did you come in here without wedding clothes?' And the man was speechless.
 
 \s5
 \v 13 Then the king said to the servants, 'Bind this man hand and foot, and throw him into the outer darkness, where there will be weeping and the grinding of teeth.'
@@ -1602,7 +1605,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \v 18 But Jesus understood their wickedness and said, "Why are you testing me, you hypocrites?
-\v 19 Show me the tax money." Then they brought a denarius to him.
+\v 19 Show me the coin for the tax." Then they brought a denarius to him.
 
 \s5
 \v 20 Jesus said to them, "Whose image and name are these?"
@@ -1611,18 +1614,18 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 23 On that day some Sadducees came to him, those who say that there is no resurrection. They asked him,
-\v 24 saying, "Teacher, Moses said, 'If a man dies, having no children, his brother must marry his wife and have a child for his brother.'
+\v 23 On that day some Sadducees, who say there is no resurrection, came to him. They asked him,
+\v 24 saying, "Teacher, Moses said, 'If a man dies, having no children, his brother must marry his wife and have children for his brother.
 
 \s5
-\v 25 There were seven brothers. The first married and then died, having left no children. He left his wife to his brother. 
+\v 25 There were seven brothers. The first married and then died. Having left no children, he left his wife to his brother. 
 \v 26 Then the second brother did the same thing, then the third, all the way to the seventh brother.
 \v 27 After them all, the woman died.
-\v 28 Now in the resurrection, whose wife will she be of the seven brothers? For they all had her."
+\v 28 Now in the resurrection, whose wife will she be of the seven brothers? For they all had married her."
 
 \s5
-\v 29 But Jesus answered and said to them, "You are mistaken, because you do not know the scriptures nor the power of God.
-\v 30 For in the resurrection they neither marry, nor are given in marriage. Instead, they are like angels in heaven.
+\v 29 But Jesus answered and said to them, "You are mistaken, because you do not know the scriptures or the power of God.
+\v 30 For in the resurrection they neither marry nor are given in marriage. Instead, they are like angels in heaven.
 
 \s5
 \v 31 But concerning the resurrection of the dead, have you not read what was spoken to you by God, saying,
@@ -1631,16 +1634,16 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 34 But when the Pharisees heard that Jesus had put the Sadducees to silence, they gathered themselves together.
+\v 34 But when the Pharisees heard that Jesus had silenced the Sadducees	, they gathered themselves together.
 \v 35 One of them, a lawyer, asked him a question, testing him—
 \v 36 "Teacher, which is the greatest commandment in the law?"
 
 \s5
-\v 37 Jesus said to him, "'You must love the Lord your God with all your heart, with all your soul, and with all your mind.'
+\v 37 Jesus said to him, "'Love the Lord your God with all your heart, with all your soul, and with all your mind.'
 \v 38 This is the great and first commandment.
 
 \s5
-\v 39 And a second commandment is like it—'You must love your neighbor as yourself.'
+\v 39 And a second commandment is like it—'Love your neighbor as yourself.'
 \v 40 On these two commandments depend the whole law and the prophets."
 
 \s5
@@ -1653,30 +1656,30 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \q
 \v 44 'The Lord said to my Lord,
 \q "Sit at my right hand,
-\q until I make your enemies your footstool."'?" 
+\q until I make your enemies your footstool."'?
 \m
 
 \s5
-\v 45 If David then calls the Christ 'Lord', how is he David's son?"
+\v 45 If David then calls the Christ 'Lord,' how is he David's son?"
 \v 46 No one was able to answer him a word, and no man dared ask him any more questions from that day on. 
 
 \s5
 \c 23
 \p
 \v 1 Then Jesus spoke to the crowds and to his disciples.
-\v 2 He said, "The scribes and the Pharisees sit in  Moses' seat.
+\v 2 He said, "The scribes and the Pharisees sit in Moses' seat.
 \v 3 Therefore whatever they command you to do, do these things and observe them. But do not imitate their deeds, for they say things but then do not do them. 
 
 \s5
-\v 4 Yes, they bind heavy burdens that are difficult to carry, and then they put them on people's shoulders.  But they themselves will not move a finger to carry them.
-\v 5 All their deeds, they do them to be seen by people. For they make their phylacteries wide, and they enlarge the borders of their garments.
+\v 4 Yes, they bind heavy burdens that are difficult to carry, and then they put them on people's shoulders. But they themselves will not move a finger to carry them.
+\v 5 They do all their deeds to be seen by people. For they make their phylacteries wide, and they enlarge the borders of their garments.
 
 \s5
 \v 6 They love the chief places at feasts and the chief seats in the synagogues,
 \v 7 and special greetings in the marketplaces, and to be called 'Rabbi' by people.
 
 \s5
-\v 8 But you must not be called 'Rabbi', for you have only one teacher, and all you are brothers.
+\v 8 But you must not be called 'Rabbi,' for you have only one teacher, and all you are brothers.
 \v 9 And call no man on earth your father, for you have only one Father, and he is in heaven.
 \v 10 Neither must you be called 'teacher,' for you have only one teacher, the Christ.
 
@@ -1687,32 +1690,32 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \p
 \v 13 But woe to you, scribes and Pharisees, hypocrites! You shut the kingdom of heaven against people. For you do not enter it yourselves, and neither do you allow those about to enter to do so. 
-\v 14 \f + \ft The best ancient copies omit verse 14. (Some copies add this verse after verse 12), v. 14 \fqa Woe to you, scribes and Pharisees, hypocrites! For you devour widows' houses, while you make a show of long prayers. You will therefore receive greater condemnation. \f*
+\v 14 \f + \ft The best ancient copies omit verse 14 (some copies add the verse after verse 12). \fqa Woe to you, scribes and Pharisees, hypocrites! For you devour widows' houses, while you make a show of long prayers. You will therefore receive greater condemnation. \f*
 \v 15 Woe to you, scribes and Pharisees, hypocrites! For you go over sea and land to make one convert. And when he has become one, you make him twice a son of hell as you yourselves are.
 
 \s5
 \p
 \v 16 Woe to you, you blind guides, you who say, 'Whoever swears by the temple, it is nothing. But whoever swears by the gold of the temple, he is bound to his oath.'
-\v 17 You blind fools, for which is greater, the gold, or the temple that has dedicated the gold to God?
+\v 17 You blind fools! Which is greater, the gold or the temple that has dedicated the gold to God?
 
 \s5
 \v 18 And, 'Whoever swears by the altar, it is nothing. But whoever swears by the gift that is on it, he is bound to his oath.'
-\v 19 You blind people, for which is greater, the gift, or the altar that dedicates the gift to God?
+\v 19 You blind people! Which is greater, the gift or the altar that dedicates the gift to God?
 
 \s5
-\v 20 Therefore, he who swears by the altar swears by it and by all the things on it.
+\v 20 Therefore, he who swears by the altar swears by it and by everything on it.
 \v 21 And he who swears by the temple swears by it and by him who lives in it.
-\v 22 And he who swears by heaven swears by the throne of God and by him that sits on it.
+\v 22 And he who swears by heaven swears by the throne of God and by him who sits on it.
 
 \s5
 \p
-\v 23 Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill, and cumin, but you have left undone the weightier matters of the law—justice, mercy, and faith. But these you ought to have done, and not to have left the other undone.
+\v 23 Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, but you have left undone the weightier matters of the law—justice and mercy and faith. But these you ought to have done and not to have left the other undone.
 \v 24 You blind guides, you who strain out a gnat but swallow a camel!
 
 \s5
 \p
-\v 25 Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the plate, but inside they are full of extortion and excess.
-\v 26 You blind Pharisee, clean first the inside of the cup and of the plate, so that the outside may become clean also.
+\v 25 Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the plate, but inside they are full of greed and self-indulgence.
+\v 26 You blind Pharisee! Clean first the inside of the cup and of the plate, so that the outside may become clean also.
 
 \s5
 \p
@@ -1723,32 +1726,32 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \p
 \v 29 Woe to you, scribes and Pharisees, hypocrites! For you build the tombs of the prophets and decorate the tombs of the righteous.
 \v 30 You say, 'If we had lived in the days of our fathers, we would not have been participants with them in shedding the blood of the prophets.'
-\v 31 Therefore you testify to yourselves that you are sons of those who killed the prophets.
+\v 31 Therefore you testify against yourselves that you are sons of those who killed the prophets.
 
 \s5
-\v 32 You also fill up the quota of your fathers' sin.
+\v 32 You also fill up the measure of your fathers.
 \v 33 You serpents, you offspring of vipers, how will you escape the judgment of hell?
 
 \s5
 \v 34 Therefore, see, I send to you prophets, wise men, and scribes. Some of them you will kill and crucify. And some of them you will whip in your synagogues and chase from city to city.
 \v 35 The result is that upon you will come all the righteous blood shed on the earth, from the blood of Abel the righteous to the blood of Zechariah son of Barachiah, whom you killed between the sanctuary and the altar.
-\v 36 Truly I say to you, all these things will happen to this generation.
+\v 36 Truly I say to you, all these things will come upon this generation.
 
 \s5
 \p
-\v 37 Jerusalem, Jerusalem, you who kill the prophets and stone those who are sent to you! How often did I long to gather your children together, just as a hen gathers her chicks under her wings, but you did not agree!
-\v 38 See, your house is left to you abandoned.
-\v 39 For I say to you, You will not see me from now on, until you say, 'Blessed is he who comes in the name of the Lord.'"
+\v 37 Jerusalem, Jerusalem, you who kill the prophets and stone those who are sent to you! How often did I long to gather your children together, just as a hen gathers her chicks under her wings, but you were not willing!
+\v 38 See, your house is left to you desolate.
+\v 39 For I say to you, You will not see me from now on until you say, 'Blessed is he who comes in the name of the Lord.'"
 
 \s5
 \c 24
 \p
-\v 1 Jesus went out from the temple and was going on his way. His disciples came to him to show him the buildings of the temple.
-\v 2 But he answered and said to them, "Do you not see all these things? Truly I say to you, not one stone will be left on another which will not be torn down."
+\v 1 Jesus went out from the temple and was going on his way. His disciples came to him to point out to him the buildings of the temple.
+\v 2 But he answered and said to them, "Do you not see all these things? Truly I say to you, not one stone will be left on another that will not be torn down."
 
 \s5
 \p
-\v 3 As he sat on the Mount of Olives, the disciples came to him privately and said, "Tell us, when will these things happen? What will be the sign of your coming and of the end of the world?"
+\v 3 As he sat on the Mount of Olives, the disciples came to him privately and said, "Tell us, when will these things happen? What will be the sign of your coming and of the end of the age?"
 \v 4 Jesus answered and said to them, "Be careful that no one leads you astray.
 \v 5 For many will come in my name. They will say, 'I am the Christ,' and will lead many astray.
 
@@ -1759,7 +1762,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \v 9 Then they will deliver you up to tribulation and kill you. You will be hated by all the nations for my name's sake.
-\v 10 Then many will stumble and betray one another, and will hate one another.
+\v 10 Then many will stumble, and betray one another and hate one another.
 \v 11 Many false prophets will rise up and lead many astray.
 
 \s5
@@ -1771,12 +1774,12 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \p
 \v 15 Therefore, when you see the abomination of desolation, which was spoken of by Daniel the prophet, standing in the holy place (let the reader understand),
 \v 16 let those who are in Judea flee to the mountains, 
-\v 17 let him who is on the housetop not go down to take out anything that is in his house, 
+\v 17 let him who is on the housetop not go down to take anything out of his house, 
 \v 18 and let him who is in the field not return to take his cloak.
 
 \s5
 \v 19 But woe to those who are with child and to those who are nursing infants in those days!
-\v 20 Pray that your flight not occur in the winter, nor on a Sabbath. 
+\v 20 Pray that your flight not occur in the winter or on a Sabbath. 
 \v 21 For there will be great tribulation, such as has not been from the beginning of the world until now, no, nor ever will be again.
 \v 22 Unless those days are shortened, no flesh would be saved. But for the sake of the elect, those days will be shortened.
 
@@ -1786,7 +1789,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 25 See, I have told you ahead of time.
 
 \s5
-\v 26 Therefore, if they say to you, 'Look, the Christ is in the wilderness,' do not go out to the wilderness. Or, 'See, he is in the inner rooms,' do not believe it.
+\v 26 Therefore, if they say to you, 'Look, he is in the wilderness,' do not go out to the wilderness. Or, 'See, he is in the inner rooms,' do not believe it.
 \v 27 For as the lightning shines out from the east and flashes all the way to the west, so will be the coming of the Son of Man.
 \v 28 Wherever a dead animal is, there the vultures will gather.
 
@@ -1795,20 +1798,20 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 29 But immediately after the tribulation of those days the sun will be darkened, the moon will not give its light, the stars will fall from the sky, and the powers of the heavens will be shaken.
 
 \s5
-\v 30 Then the sign of the Son of Man will appear in the sky, and all the tribes of the earth will beat their breasts. They will see the Son of Man coming on the clouds of the sky with power and great glory.
+\v 30 Then the sign of the Son of Man will appear in the sky, and all the tribes of the earth will mourn. They will see the Son of Man coming on the clouds of the sky with power and great glory.
 \v 31 He will send his angels with a great sound of a trumpet, and they will gather together his elect from the four winds, from one end of the sky to the other.
 
 \s5
 \p
 \v 32 Learn a lesson from the fig tree. As soon as the branch becomes tender and puts out its leaves, you know that summer is near.
-\v 33  So also, when you see all these things, you should know that he is near, close to the gates.
+\v 33 So also, when you see all these things, you should know that he is near, at the very gates.
 
 \s5
-\v 34 Truly I say to you, this generation will not pass away, until all of these things will have occurred.
+\v 34 Truly I say to you, this generation will not pass away until all of these things will have happened.
 \v 35 Heaven and the earth will pass away, but my words will never pass away.
 
 \s5
-\v 36 But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but only the Father.
+\v 36 But concerning that day and hour no one knows, not even the angels of heaven, or the Son, but only the Father.
 
 \s5
 \v 37 As the days of Noah were, so will be the coming of the Son of Man.
@@ -1821,20 +1824,20 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 42 Therefore be on your guard, for you do not know on what day your Lord will come.
 
 \s5
-\v 43 But know this, that if the master of the house had known in what hour the thief was coming, he would have been on guard and would not have allowed his house to be broken into.
-\v 44 Therefore you must also be ready, for the Son of Man will come in an hour that you do not expect.
+\v 43 But know this, that if the master of the house had known in what time of night the thief was coming, he would have been on guard and would not have allowed his house to be broken into.
+\v 44 Therefore you must also be ready, for the Son of Man will come at an hour that you do not expect.
 
 \s5
 \p
-\v 45 So who is the faithful, wise servant, whom his master has set over his household, in order to give them their food at the right time?
-\v 46 Blessed is that servant, whom his master will find doing that when he comes.
+\v 45 So who is the faithful and wise servant whom his master has set over his household in order to give them their food at the right time?
+\v 46 Blessed is that servant whom his master will find doing that when he comes.
 \v 47 Truly I say to you that the master will set him over everything that he owns.
 
 \s5
 \v 48 But if an evil servant says in his heart, 'My master has been delayed,'
-\v 49 and begins to beat his fellow servants, and eats and drinks with drunkards,
-\v 50 the master of that servant will come on a day that the servant does not expect, and at an hour that he does not know.
-\v 51 His master will cut him in two and make his fate the same as that of the hypocrites, where there will be weeping and grinding of teeth.
+\v 49 and begins to beat his fellow servants, and eats and drinks with drunkards.
+\v 50 The master of that servant will come on a day that the servant does not expect and at an hour that he does not know.
+\v 51 His master will cut him in two and make his fate the same as that of the hypocrites, where there will be weeping and gnashing of teeth.
 
 \s5
 \c 25
@@ -1851,7 +1854,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \v 7 Then all those virgins rose up and trimmed their lamps.
 \v 8 The foolish said to the wise, 'Give us some of your oil because our lamps are going out.'
-\v 9 But the wise answered and said, 'Since there will not be enough for us and you, go instead  to those who sell and buy some for yourselves.'
+\v 9 But the wise answered and said, 'Since there will not be enough for us and you, go instead to those who sell and buy some for yourselves.'
 
 \s5
 \v 10 While they went away to buy, the bridegroom came, and those who were ready went with him to the marriage feast, and the door was shut.
@@ -1871,7 +1874,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \v 19 Now after a long time the master of those servants came back and settled accounts with them.
-\v 20 The servant who had received five talents came and brought another five talents as well, he said, 'Master, you gave me five talents. See, I have made five more talents.'
+\v 20 The servant who had received five talents came and he brought another five talents. He said, 'Master, you gave me five talents, see, I have made five talents more.'
 \v 21 His master said to him, 'Well done, good and faithful servant! You have been faithful over a few things. I will put you in charge over many things. Enter into the joy of your master.'
 
 \s5
@@ -1883,7 +1886,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 25 I was afraid, so I went away and hid your talent in the ground. See, you have here what belongs to you.'
 
 \s5
-\v 26 But his master answered and said him, 'You wicked and lazy servant, you knew that I reap where I have not sowed and harvest where I have not  scattered.
+\v 26 But his master answered and said him, 'You wicked and lazy servant, you knew that I reap where I have not sowed and harvest where I have not scattered.
 \v 27 Therefore you should have given my money to the bankers, and at my coming I would have received back my own with interest.
 
 \s5
@@ -1893,25 +1896,25 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 31 When the Son of Man comes in his glory and all the angels with him, then he will sit on his glorious  throne.
+\v 31 When the Son of Man comes in his glory and all the angels with him, then he will sit on his glorious throne.
 \v 32 Before him will be gathered all the nations, and he will separate the people one from another, as a shepherd separates the sheep from the goats.
 \v 33 He will place the sheep on his right hand, but the goats on his left.
 
 \s5
 \v 34 Then the King will say to those on his right hand, 'Come, you who have been blessed by my Father, inherit the kingdom prepared for you from the foundation of the world.
 \v 35 For I was hungry and you gave me food; I was thirsty and you gave me a drink; I was a stranger and you took me in;
-\v 36 I was naked, and you clothed me; I was sick and you cared for me; I was in prison and you came to me.'
+\v 36 I was naked and you clothed me; I was sick and you cared for me; I was in prison and you came to me.'
 
 \s5
-\v 37 Then the righteous will answer and say, 'Lord, when did we see you hungry, and feed you? Or thirsty and give you a drink?
-\v 38 And when did we see you a stranger, and take you in? Or naked and clothe you?
-\v 39 And when did we see you sick, or in prison, and come to you?'
+\v 37 Then the righteous will answer and say, 'Lord, when did we see you hungry and feed you? Or thirsty and give you a drink?
+\v 38 And when did we see you a stranger and take you in? Or naked and clothe you?
+\v 39 And when did we see you sick or in prison and come to you?'
 \v 40 And the King will answer and say to them, 'Truly I say to you, what you did for one of the least of my brothers here, you did it for me.'
 
 \s5
 \v 41 Then he will say to those on his left hand, 'Depart from me, you cursed, into the eternal fire that has been prepared for the devil and his angels,
-\v 42 because I was hungry but you did not give me food; I was thirsty but you did not give me a  drink;
-\v 43 I was a stranger but you did not take me in; naked but you did not clothe me; sick and in prison, but you did not care for me.'
+\v 42 because I was hungry, but you did not give me food; I was thirsty, but you did not give me a drink;
+\v 43 I was a stranger, but you did not take me in; naked, but you did not clothe me; sick and in prison, but you did not care for me.'
 
 \s5
 \v 44 Then they will also answer and say, 'Lord, when did we see you hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and did not serve you?'
@@ -1946,7 +1949,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 14 Then one of the Twelve, who was named Judas Iscariot, went to the chief priests
+\v 14 Then one of the twelve, who was named Judas Iscariot, went to the chief priests
 \v 15 and said, "What are you willing to give me to deliver him to you?" They weighed out thirty pieces of silver for him.
 \v 16 From that moment he sought an opportunity to deliver him to them.
 
@@ -2011,7 +2014,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 47 While he was still speaking, Judas, one of the Twelve, came. A large crowd came with him from the chief priests and elders of the people. They came with swords and clubs.
+\v 47 While he was still speaking, Judas, one of the twelve, came. A large crowd came with him from the chief priests and elders of the people. They came with swords and clubs.
 \v 48 Now the man who was going to betray Jesus had given them a signal, saying, "Whomever I kiss, he is the one. Seize him."
 
 \s5
@@ -2034,7 +2037,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 58 But Peter followed him from a distance to the courtyard of the high priest. He went inside and sat down with the guards to see the outcome.
 
 \s5
-\v 59 Now the chief priests and the whole Council were looking for false testimony against Jesus, so that they might put him to death.
+\v 59 Now the chief priests and the whole council were looking for false testimony against Jesus, so that they might put him to death.
 \v 60 They did not find any, even though many false witnesses came forward. But later two came forward
 \v 61 and said, "This man said, 'I am able to destroy the temple of God and rebuild it in three days.'"
 
@@ -2061,7 +2064,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 72 And he denied again with an oath, "I do not know the man."
 
 \s5
-\v 73 After a little while those who were standing by  came and said to Peter, "Surely you are also one of them, for your accent gives you away."
+\v 73 After a little while those who were standing by came and said to Peter, "Surely you are also one of them, for your accent gives you away."
 \v 74 Then he began to curse and swear, "I do not know the man," and immediately a rooster crowed.
 \v 75 Peter remembered the words that Jesus had said, "Before the rooster crows you will deny me three times." Then he went outside and wept bitterly.
 
@@ -2079,8 +2082,8 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \v 6 The chief priests took the pieces of silver and said, "It is not lawful to put this into the treasury, because it is the price of blood."
-\v 7 They discussed the matter together and with the money bought the Potter's Field to bury strangers in.
-\v 8 For this reason that field has been called, "The field of blood" to this day.
+\v 7 They discussed the matter together and with the money bought the potter's field in which to bury strangers.
+\v 8 For this reason that field has been called, "The Field of Blood" to this day.
 
 \s5
 \v 9 Then that which had been spoken by Jeremiah the prophet was fulfilled, saying, "They took the thirty pieces of silver, the price set on him by the people of Israel,
@@ -2098,13 +2101,13 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \v 16 At that time they had a notorious prisoner named Barabbas.
 
 \s5
-\v 17 So when they were gathered together, Pilate said to them, "Who do  you want me to release for you? Barabbas, or Jesus who is called Christ?"
+\v 17 So when they were gathered together, Pilate said to them, "Who do you want me to release for you? Barabbas, or Jesus who is called Christ?"
 \v 18 Because he knew that they had handed him over because of envy.
 \v 19 While he was sitting on the judgment seat, his wife sent word to him and said, "Have nothing to do with that innocent man. For I have suffered a great deal today in a dream because of him."
 
 \s5
 \v 20 Now the chief priests and the elders persuaded the crowd to ask for Barabbas, and have Jesus killed.
-\v 21 The governor asked them, "Which of the two do you want  me to release to you?" They said, "Barabbas."
+\v 21 The governor asked them, "Which of the two do you want me to release to you?" They said, "Barabbas."
 \v 22 Pilate said to them, "What should I do with Jesus who is called Christ?" They all answered, "Crucify him."
 
 \s5
@@ -2128,13 +2131,13 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \p
 \v 32 As they came out, they found a man from Cyrene named Simon, whom they forced to go with them so that he might carry his cross.
-\v 33 They came to a place called Golgotha, which means, "The Place of a Skull."
+\v 33 They came to a place called Golgotha, which means "The Place of a Skull."
 \v 34 They gave him wine to drink mixed with gall. But when he tasted it, he would not drink.
 
 \s5
 \v 35 When they had crucified him, they divided up his garments by casting lots.
 \v 36 And they sat and watched him.
-\v 37 Above his head they put the charge against him which read, "This is Jesus, the king of the Jews."
+\v 37 Above his head they put the charge against him, which read "This is Jesus, the king of the Jews."
 
 \s5
 \v 38 Two robbers were crucified with him, one on the right of him and one on the left.
@@ -2162,7 +2165,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \v 51 Behold, the curtain of the temple was split in two from the top to the bottom. And the earth shook, and the rocks split apart.
-\v 52 The tombs were opened, and the bodies of many holy people who had fallen asleep were raised.
+\v 52 The tombs were opened, and the bodies of many godly people who had fallen asleep were raised.
 \v 53 They came out of the tombs after his resurrection, entered the holy city, and appeared to many.
 
 \s5
@@ -2184,7 +2187,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \p
 \v 62 The next day, which was the day after the Preparation, the chief priests and the Pharisees were gathered together with Pilate.
 \v 63 They said, "Sir, we remember that when that deceiver was alive, he said, 'After three days will I rise again.'
-\v 64 Therefore command that the tomb be made secure until the third day. Otherwise his disciples may come and steal him and say to the people, 'He has risen from the dead.' And the last deception will be worse than the first."
+\v 64 Therefore command that the tomb be made secure until the third day. Otherwise his disciples may come and steal him and say to the people, 'He has risen from the dead ones.' And the last deception will be worse than the first."
 
 \s5
 \v 65 Pilate said to them, "Take a guard. Go and make it as secure as you can."
@@ -2203,7 +2206,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 \s5
 \v 5 The angel addressed the women and said to them, "Do not be in terror, for I know that you seek Jesus, who has been crucified.
 \v 6 He is not here, but is risen, just as he said. Come see the place where the Lord lay.
-\v 7 Go quickly and tell his disciples, 'He has risen from the dead. See, he is going ahead of you to Galilee. There you will see him.' See, I have told you."
+\v 7 Go quickly and tell his disciples, 'He has risen from the dead ones. See, he is going ahead of you to Galilee. There you will see him.' See, I have told you."
 
 \s5
 \v 8 The women quickly left the tomb with fear and great joy, and ran to tell his disciples.
@@ -2212,7 +2215,7 @@ says to his brother, 'You worthless person!' will be in danger of the council. A
 
 \s5
 \p
-\v 11 Now while the women were going, behold, some of the guards went into the city and told to the chief priests all the things that had happened.
+\v 11 Now while the women were going, behold, some of the guards went into the city and told the chief priests all the things that had happened.
 \v 12 When the priests had met with the elders and discussed the matter with them, they gave a large amount of money to the soldiers
 \v 13 and told them, "Say to others, 'Jesus' disciples came by night and stole his body while we were sleeping.'
 

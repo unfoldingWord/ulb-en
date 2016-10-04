@@ -1,9 +1,8 @@
-
 \id ISA Unlocked Literal Bible
 \ide UTF-8
 \h Isaiah 
-\toc1 The Book of the Prophet Isaiah 
-\toc2 Isaiah 
+\toc1 The Book of Isaiah
+\toc2 Isaiah
 \toc3 Isa 
 \mt The Book of the Prophet Isaiah
 
@@ -23,14 +22,14 @@
 \q1
 
 \s5
-\v 4 Woe! nation, sinners, a people weighed down with iniquity, 
+\v 4 Woe! Nation, sinners, a people weighed down with iniquity, 
 \q1 offspring of evildoers, sons that act corruptly! 
 \q1 They have abandoned Yahweh, they have despised the Holy One of Israel, 
 \q1 they have estranged themselves from him.
 \q1
 
 \s5
-\v 5 Why are you still being beaten?  Why do you rebel more and more?
+\v 5 Why are you still being beaten? Why do you rebel more and more?
 \q1 The whole head is sick, the whole heart is weak.
 \q1
 \v 6 From the sole of the foot to the head there is no part unharmed;
@@ -72,7 +71,7 @@ the fat of fatted beasts;
 \q1
 
 \s5
-\v 14  I hate your new moons and your appointed feasts;
+\v 14 I hate your new moons and your appointed feasts;
 \q1 they are a burden to me; I am tired of enduring them.
 \q1
 \v 15 So when you spread out your hands in prayer, I hide my eyes from you;
@@ -86,7 +85,8 @@ the fat of fatted beasts;
 \q1 stop being evil;
 \q1
 \v 17 learn to do good; 
-\q1 seek justice, help the oppressed, 
+\q1 seek justice, make straight the oppression,
+\f + \ft Instead of \fqa make straight the oppression \fqb , some versions have \fqa help the oppressed \fqb . \f*
 \q1 give justice to the fatherless, defend the widow."
 \p
 \q1
@@ -98,7 +98,7 @@ the fat of fatted beasts;
 \q1
 
 \s5
-\v 19 If you are willing and obedient, you will eat the good of the land.
+\v 19 If you are willing and obedient, you will eat the good of the land,
 \q1
 \v 20 but if you refuse and rebel, the sword will devour you," 
 \q1 for the mouth of Yahweh has spoken it.
@@ -116,7 +116,7 @@ the fat of fatted beasts;
 \s5
 \v 23 Your princes are rebels and companions of thieves; 
 \q1 everyone loves bribes and runs after payoffs.
-\q1 they do not defend the fatherless, nor does the widow's legal plea come before them.
+\q1 They do not defend the fatherless, nor does the widow's legal plea come before them.
 \p
 \q1
 
@@ -125,7 +125,7 @@ the fat of fatted beasts;
 \q1 "Woe to them! I will take vengeance against my adversaries, and avenge myself against my enemies;
 \q1
 \v 25 I will turn my hand against you, 
-\q1 refine away your dross, and take away all your impurities.
+\q1 refine away your dross as with lye, and take away all your dross.
 \q1
 
 \s5
@@ -166,7 +166,7 @@ mountains, and will be exalted above the hills;
 \s5
 \v 3 Many peoples will come and say, 
 \q1 "Come, let us go up to the mountain of Yahweh, to the house of the God of Jacob, 
-\q1 so  he will teach us some of his ways, and we may walk in his paths."
+\q1 so he will teach us some of his ways, and we may walk in his paths."
 \q1 For out of Zion will go the law, and the word of Yahweh from Jerusalem.
 \q1
 
@@ -182,7 +182,7 @@ mountains, and will be exalted above the hills;
 \q1
 \v 6 For you have abandoned your people, the house of Jacob, 
 \q1 because they are filled
-with customs from the east  and are omen readers like the Philistines, 
+with customs from the east and are omen readers like the Philistines, 
 \q1 and they shake hands with sons of foreigners.
 \q1
 
@@ -195,7 +195,7 @@ with customs from the east  and are omen readers like the Philistines,
 \q1
 
 \s5
-\v 9 The people will be bowed down, and individuals will fall down; therefore do not accept them.
+\v 9 The people will be bowed down, and individuals will fall down; therefore do not raise them up.
 \q1
 \v 10 Go into the rocky places and hide in the ground
 \q1 from the terror of Yahweh and from the glory of his majesty.
@@ -225,14 +225,14 @@ with customs from the east  and are omen readers like the Philistines,
 \v 17 The pride of man will be brought low and the haughtiness of men will fall; 
 \q1 Yahweh alone will be exalted on that day.
 \q1
-\v 18 The  idols will completely pass away.
+\v 18 The idols will completely pass away.
 \q1
 \v 19 Men will go into the caves of the rocks and the holes of the ground, 
 \q1 from the terror of Yahweh, and from the splendor of his majesty, when he rises to terrify the earth.
 \q1
 
 \s5
-\v 20 On that day people will  throw away their idols of silver and of gold
+\v 20 On that day people will throw away their idols of silver and of gold
 \q1 that they have made for themselves to worship—they will throw them away to the moles and bats.
 \q1
 \v 21 The people will go into the caves of the rocks and into the clefts of the ragged rocks, 
@@ -271,9 +271,9 @@ with customs from the east  and are omen readers like the Philistines,
 
 \s5
 \v 8 For Jerusalem is ruined, and Judah has fallen, 
-\q1 because their speech and their actions are against Yahweh, defying his royal  authority.
+\q1 because their speech and their actions are against Yahweh, defying his royal authority.
 \q1
-\v 9 The look on their faces witnesses against them; and they tell of  their sin like Sodom; they do not hide it.
+\v 9 The look on their faces witnesses against them; and they tell of their sin like Sodom; they do not hide it.
 \q1 Woe to them! For they have brought a catastrophe upon themselves.
 \q1
 
@@ -307,14 +307,18 @@ with customs from the east  and are omen readers like the Philistines,
 \q1
 
 \s5
-\v 18 On that day the Lord will remove their  beautiful  ankle jewelry, head bands, the crescent ornaments,
-\m
+\v 18 On that day the Lord will remove their beautiful ankle jewelry, head bands, the crescent ornaments,
+\q1
 \v 19 the ear pendants, the bracelets, and the veils;
-\v 20 the headscarfs, the ankle chains, the sashes, and the perfume boxes, and the lucky charms.
+\q1
+\v 20 the headscarves, the ankle chains, the sashes, and the perfume boxes, and the lucky charms.
+\q1
 
 \s5
 \v 21 He will remove the rings and the nose jewels;
+\q1
 \v 22 the festive robes, the mantles, the veils, and the handbags;
+\q1
 \v 23 the hand mirrors, the fine linen, the head pieces, and the wraps.
 \q1
 
@@ -326,25 +330,23 @@ with customs from the east  and are omen readers like the Philistines,
 \v 25 Your men will fall by the sword, and your strong men will fall in war.
 \q1
 \v 26 Jerusalem's gates will lament and mourn; and she will be alone and sit upon the ground.
+\m
 
 \s5
 \c 4
 \p
-\q1
 \v 1 On that day seven women will take hold of one man
-\q1 and say, "Our own food we will eat, our own clothing we will wear
-\q1 but let us take your name to remove our shame."
+and say, "Our own food we will eat, our own clothing we will wear.
+But let us take your name to remove our shame."
 \p
-\v 2 On that day the branch of Yahweh  will be beautiful and glorious, and the fruit of the land will be tasty and delightful for those survivors  in Israel.
+\v 2 On that day the branch of Yahweh will be beautiful and glorious, and the fruit of the land will be tasty and delightful for those survivors in Israel.
 
 \s5
 \v 3 Then, he who is left in Zion, and he who remains in Jerusalem, will be called holy, 
-every one who is  recorded as living in Jerusalem,
-\v 4 when the Lord will have washed away the filth of the daughters of Zion, and will have cleansed the blood stains from Jerusalem's midst, by the spirit of justice, and by the spirit of burning fire.
-
-\s5
- \v 5 Then Yahweh will create over the whole site of Mount Zion and over her place of assembly, cloud and smoke by day, and the shining of a flaming fire by night; a canopy over all the glory.
-\v 6 It  will be a shelter for  shade in the daytime from the heat, and a refuge and a cover from the storm and rain.
+every one who is recorded as living in Jerusalem,
+\v 4 when the Lord will have washed away the filth of the daughters of Zion, and will have cleansed the blood stains from Jerusalem's midst, by the spirit of judgment, and by the spirit of burning fire.
+\v 5 Then Yahweh will create over the whole site of Mount Zion and over her place of assembly, cloud and smoke by day, and the shining of a flaming fire by night; a canopy over all the glory.
+\v 6 It will be a shelter for shade in the daytime from the heat, and a refuge and a cover from the storm and rain.
 
 \s5
 \c 5
@@ -353,18 +355,18 @@ every one who is  recorded as living in Jerusalem,
 \v 1 Let me sing for my well beloved, a song of my beloved about his vineyard. 
 \q1 My well beloved had a vineyard on a very fertile hill.
 \q1
-\v 2 He spaded  it and removed the stones, and planted it with the choicest vine. 
+\v 2 He spaded it and removed the stones, and planted it with a choice variety of vine. 
 \q1 He built a tower in the middle of it, and also built a winepress. 
-\q1 He expected that it should produce good grapes, but it produced wild grapes.
+\q1 He waited for it to produce grapes, but it produced wild grapes.
 \p
 \q1 
 
 \s5
 \v 3 So now, inhabitants of Jerusalem and men of Judah;
-\q1  judge between me and my vineyard.
+\q1 judge between me and my vineyard.
 \q1
 \v 4 What more could have been done for my vineyard, that I have not done for it? 
-\q1 When I looked for it to produce good grapes, why did it produce wild grapes?
+\q1 When I looked for it to produce grapes, why did it produce wild grapes?
 \q1
 
 \s5
@@ -377,26 +379,26 @@ every one who is  recorded as living in Jerusalem,
 
 \s5
 \v 7 For the vineyard of Yahweh of hosts is the house of Israel,
-\q1 and the men of Judah his pleasant planting;  
+\q1 and the men of Judah his pleasant planting; 
 \q1 he waited for justice, but instead, there was killing; for righteousness, but, instead, a cry for help.
 \p
 \q1
 
 \s5
 \v 8 Woe to those who join house to house, who join field to field, 
-\q1 till no room remains, and you alone remain in  the land!
+\q1 till no room remains, and you alone remain in the land!
 \q1
-\v 9 Yahweh of hosts told me,  
+\v 9 Yahweh of hosts told me, 
 \q1 many houses will be empty, even great and impressive ones, without inhabitant.
 \q1
-\v 10 For a ten-acre vineyard will yield only one bath, and one homer of seed will yield only an ephah.
+\v 10 For a ten-yoke vineyard will yield only one bath, and one homer of seed will yield only an ephah.
 \q1
 
 \s5
-\v 11 Woe to those  who rise up early in the morning to look for  strong drink; 
+\v 11 Woe to those who rise up early in the morning to look for strong drink; 
 \q1 who linger late into the night until wine inflames them!
 \q1
-\v 12 They banquet with harp, lute,  tambourine, flute, and wine,
+\v 12 They banquet with harp, lute, tambourine, flute, and wine,
 \q1 but they do not recognize the work of Yahweh, nor have they considered the doings of his hands.
 \p
 \q1
@@ -405,7 +407,7 @@ every one who is  recorded as living in Jerusalem,
 \v 13 Therefore my people have gone into captivity for lack of understanding; 
 \q1 their leaders go hungry, and their masses have nothing to drink.
 \q1
-\v 14 Therefore death has made its appetite greater and has opened its mouth very wide; 
+\v 14 Therefore sheol has made its appetite greater and has opened its mouth very wide; 
 \q1 their elite, the people, their leaders, and the revelers and those who are happy among them, descend into sheol.
 \q1
 
@@ -414,7 +416,8 @@ every one who is  recorded as living in Jerusalem,
 \q1
 \v 16 Yahweh of hosts is exalted in his justice, and God the Holy One shows himself holy by his righteousness.
 \q1
-\v 17 Then the sheep will feed as in their own pasture, and in the ruins of the rich people, lambs will graze.
+\v 17 Then the sheep will feed as in their own pasture, and in the ruins, lambs will graze as foreigners.
+\f + \ft Some modern versions have \fqa and in the ruins of the rich, lambs will graze \fqb . \f*
 \p
 \q1
 
@@ -447,36 +450,36 @@ every one who is  recorded as living in Jerusalem,
 \q1
 
 \s5
-\v 25 Therefore the anger of Yahweh is kindled against his people, and he has reached out with his hand against them  and has punished them; 
+\v 25 Therefore the anger of Yahweh is kindled against his people, and he has reached out with his hand against them and has punished them; 
 \q1 the mountains tremble, and their corpses are like garbage in the streets. 
 \q1 Despite all this, his anger does not subside, but his hand is still raised to strike again.
 \p
 \q1
 
 \s5
-\v 26 He will lift up a signal flag for a far away nation and will whistle for them from the end of the earth. 
+\v 26 He will lift up a signal flag for far away nations and will whistle for those at the end of the earth. 
 \q1 Look, they will come speedily and promptly.
 \q1
 
 \s5
-\v 27 None tire or stumble among them; none slumbers nor sleeps; 
+\v 27 None tire or stumble among them; none slumbers or sleeps; 
 \q1 nor will their belt be loose, nor the thong of their sandals broken;
 \q1
-\v 28 their  arrows are sharp and all their bows are bent; 
+\v 28 their arrows are sharp and all their bows are bent; 
 \q1 their horses' hooves are like flint, and their chariot wheels like storms.
 \q1
 
 \s5
 \v 29 Their roaring will be like a lion, they will roar like young lions. 
-\q1 They will roar and seize the prey and drag it away, with none  to rescue.
+\q1 They will growl and seize the prey and drag it away, with none to rescue.
 \q1
-\v 30 On that day they will roar against the prey as the sea roars.  
+\v 30 On that day they will roar against the prey as the sea roars. 
 \q1 If one looks over the land, he will see darkness and distress, and the light will be darkened by the clouds.
 
 \s5
 \c 6
 \p
-\v 1 In the year that king Uzziah died, I saw the Lord sitting on a throne; he was high and elevated, and the  hem of his robe filled the temple.
+\v 1 In the year that king Uzziah died, I saw the Lord sitting on a throne; he was high and elevated, and the hem of his robe filled the temple.
 \v 2 Above him were the seraphim; each one had six wings; with two each covered his face, and with two he covered his feet, and with two he flew.
 
 \s5
@@ -525,18 +528,19 @@ every one who is  recorded as living in Jerusalem,
 \p
 \v 1 During the days of Ahaz son of Jotham son of Uzziah, king of Judah, Rezin the king of Aram,
 and Pekah son of Remaliah, king of Israel, went up to Jerusalem to war against it, but they could not prevail against it.
-\v 2 It was reported to the house of David that Aram was allied with Ephraim.  His heart trembled, and the heart of
+\v 2 It was reported to the house of David that Aram was allied with Ephraim. His heart trembled, and the heart of
 his people, as the trees of the forest shake in the wind.
+\f + \ft Instead of \fqa ... that Aram was allied with Ephraim \fqb , some versions have \fqa ... that Aram had camped in Ephraim. \fqb \f*
 
 \s5
 \p
 \v 3 Then Yahweh said to Isaiah, "Go out with your son Shear Jashub to meet Ahaz at the end of the conduit of the
 upper pool, on the road to the Launderer's field.
-\v 4 Tell him, 'Be careful, remain calm, do not be afraid or intimidated by these two smoldering  firebrands, by 
+\v 4 Tell him, 'Be careful, remain calm, do not be afraid or intimidated by these two smoldering firebrands, by 
 the fierce anger of Rezin and Aram, and of Pekah son of Remaliah.
 
 \s5
-\v 5  Aram, Ephraim, and the son of Remaliah have planned evil against you; they have said,
+\v 5 Aram, Ephraim, and the son of Remaliah have planned evil against you; they have said,
 \v 6 "Let us attack Judah and terrify her, and let us break into her and set up our king there, the son of Tabeel."
 \q1
 
@@ -558,10 +562,10 @@ remain secure."'"
 \v 12 But Ahaz said, "I will not ask, nor will I test Yahweh."
 
 \s5
-\v 13 So Isaiah replied, "Listen, house of David. Is it not enough for you to test the patience of people?  Must you also test the patience of my God?
-\v 14 Therefore the Lord himself will give you a sign: see, a young woman will conceive, bear a son, and will call his name
+\v 13 So Isaiah replied, "Listen, house of David. Is it not enough for you people to test the patience of people? Must you also test the patience of my God?
+\v 14 Therefore the Lord himself will give you people a sign: see, a young woman will conceive, bear a son, and will call his name
 Immanuel.
-\v 15 He will  eat curds and honey when he knows to refuse the evil and choose the good.
+\v 15 He will eat curds and honey when he knows to refuse the evil and choose the good.
 
 \s5
 \v 16 For before the child knows to refuse the evil and choose the good, the land whose two kings you dread will be
@@ -575,12 +579,12 @@ desolate.
 \q1 Yahweh will whistle for a fly from the distant streams of Egypt, 
 \q1 and for a bee from the land of Assyria.
 \q1
-\v 19 They will all come and settle down into all the gorges,  into the clefts of the rocks, 
-\q1 on all the thorn bushes, and onto all the pastures.
+\v 19 They will all come and settle down into all the gorges, into the clefts of the rocks, 
+\q1 on all the thornbushes, and onto all the pastures.
 
 \s5
 \p
-\v 20 At that time the Lord will shave with a razor that was hired  beyond the Euphrates River—
+\v 20 At that time the Lord will shave with a razor that was hired beyond the Euphrates River—
 the king of Assyria—
 \q1 he will shave your head, the hair on your legs; and he will also shave off your beard.
 \q1 
@@ -597,13 +601,13 @@ the king of Assyria—
 \q1
 \v 24 Men will go there to hunt with bows, because all the land will be briers and thorns.
 \q1
-\v 25 They will stay away from all the hills that were cultivated  with the hoe, for fear of the briers and thorns;
+\v 25 They will stay away from all the hills that were cultivated with the hoe, for fear of the briers and thorns;
 \q1 but it will be a place where cattle and sheep graze.
 
 \s5
 \c 8
 \p
-\v 1 Yahweh said to me, "Take  a large tablet and write on it, 'Maher Shalal Hash Baz.'
+\v 1 Yahweh said to me, "Take a large tablet and write on it, 'Maher Shalal Hash Baz.'
 \v 2 I will summon faithful witnesses to attest for me, Uriah the priest, and Zechariah son of Jeberekiah."
 
 \s5
@@ -622,8 +626,8 @@ the king of Assyria—
 \q1
 
 \s5
-\v 8 and it will sweep onward into Judah, flooding  and passing on, until it reaches to your neck. 
-\q1 Its outstretched  wings will fill your entire land, Immanuel."
+\v 8 and it will sweep onward into Judah, flooding and passing on, until it reaches to your neck. 
+\q1 Its outstretched wings will fill your entire land, Immanuel."
 \q1
 
 \s5
@@ -634,10 +638,10 @@ the king of Assyria—
 \q1 for God is with us.
 
 \s5
-\v 11 Yahweh  spoke  to me, with his strong hand upon me, and warned me not to walk in the way of this people.
+\v 11 Yahweh spoke to me, with his strong hand upon me, and warned me not to walk in the way of this people.
 \q1
 \v 12 Do not call conspiracy anything that this people calls conspiracy,
-\q1  you will not fear what they fear, and do not be terrified.
+\q1 you will not fear what they fear, and do not be terrified.
 \q1
 \v 13 Yahweh of hosts, you will honor him as holy, you will fear him, and he is the one you must dread.
 \q1
@@ -650,7 +654,7 @@ the king of Assyria—
 \q1
 
 \s5
-\v 16 Bind up my testimony, seal the the official record, and give it to my disciples.
+\v 16 Bind up my testimony, seal the official record, and give it to my disciples.
 \q1
 \v 17 I will wait for Yahweh, who hides his face from the house of Jacob; I will wait for him.
 \q1
@@ -667,7 +671,7 @@ Should they consult the dead on behalf of the living?
 \q1
 
 \s5
-\v 21 They will pass through the land greatly distressed and hungry.  When they are hungry, they will become angry
+\v 21 They will pass through the land greatly distressed and hungry. When they are hungry, they will become angry
 \q1 and curse their king and their God, as they turn their faces upward.
 \q1
 \v 22 They will look at the earth 
@@ -677,13 +681,14 @@ Should they consult the dead on behalf of the living?
 \c 9
 \p
 \q1
-\v 1 The  gloom will be dispelled from her who was in anguish. 
+\v 1 The gloom will be dispelled from her who was in anguish. 
 \q1 In an earlier time he humiliated 
 \q1 the land of Zebulun and the land of Naphtali, 
 \q1 but in the later time he will make it glorious, the way to the sea, beyond the Jordan, Galilee of the nations.
 \q1
 \v 2 The people who walked in darkness have seen a great light;
 \q1 those who have lived in the land of the shadow of death, the light has shone on them.
+\f + \ft Instead of \fqa the shadow of death \fqb , some versions have \fqa darkness \fqb . \f*
 \q1
 
 \s5
@@ -709,7 +714,7 @@ Should they consult the dead on behalf of the living?
 \q1 Prince of Peace.
 \q1
 \v 7 Of the increase of his government and of peace there will be no end, 
-\q1 as he  rules on the throne of David, and over his kingdom, 
+\q1 as he rules on the throne of David, and over his kingdom, 
 \q1 to establish it and sustain it 
 \q1 with justice and with righteousness from this time onward and for evermore. 
 \q1 The zeal of Yahweh of hosts 
@@ -727,9 +732,9 @@ place."
 \q1
 
 \s5
-\v 11 Therefore Yahweh will raise up against him,  Rezin, his adversary, and will stir up his enemies,
+\v 11 Therefore Yahweh will raise up against him, Rezin, his adversary, and will stir up his enemies,
 \q1
-\v 12 the Arameans on the east, and the Philistines on the west.  They will devour Israel with open mouth. 
+\v 12 the Arameans on the east, and the Philistines on the west. They will devour Israel with open mouth. 
 \q1 For in his anger Yahweh will 
 not stop, but his hand will still be raised to strike.
 \q1
@@ -743,7 +748,7 @@ not stop, but his hand will still be raised to strike.
 \q1
 
 \s5
-\v 16 Those who lead this people lead them astray, and those who are led by them are swallowed up
+\v 16 Those who lead this people lead them astray, and those who are led by them are swallowed up.
 \q1
 \v 17 Therefore the Lord will not rejoice over their young men nor will he have compassion on their fatherless and widows,
 \q1
@@ -753,35 +758,35 @@ hand will still be raised to strike.
 \q1
 
 \s5
-\v 18 Wickedness burns like a fire; it devours the briers and thorns;  
+\v 18 Wickedness burns like a fire; it devours the briers and thorns; 
 \q1 it even burns the thickets of the forest, which rise in a column of smoke.
 \q1
-\v 19 Through the overflowing anger of Yahweh of hosts the land is scorched, and the people are like fuel for the fire. 
+\v 19 Through the fury of Yahweh of hosts the land is scorched, and the people are like fuel for the fire. 
 \q1 No man spares his
 brother.
 \q1
 
 \s5
-\v 20 They will slice meat off the right hand and still be hungry; they will eat meat off the left hand but will not be
+\v 20 They will grab food on the right hand but still be hungry; they will eat food on the left hand but will not be
 satisfied. 
 \q1 Each will even eat the flesh of his own arm.
+\f + \ft Instead of \fqa the flesh of his own arm \fqb , some versions have \fqa the flesh of his own children \fqb . \f*
 \q1
 \v 21 Manasseh will devour Ephraim, and Ephraim, Manasseh; and they together will attack Judah. 
-\q1 For all this Yahweh's anger will not subside,
- but his hand will still be raised to strike.
+\q1 For all this Yahweh's anger will not subside. Instead, his hand will still be raised to strike.
 
 \s5
 \c 10
 \p
 \q1
-\v 1 Woe to those who enact unjust laws and institute unfair  decrees.
+\v 1 Woe to those who enact unjust laws and write unfair decrees.
 \q1
 \v 2 They deprive the needy of justice, rob the poor of my people of their rights, 
 \q1 plunder widows, and make the fatherless their prey!
 \q1
 
 \s5
-\v 3 What will you do on judgment day when the destruction  comes from far away? 
+\v 3 What will you do on judgment day when the destruction comes from far away? 
 \q1 To whom will you flee for
 help, and where will you leave your wealth?
 \q1
@@ -819,19 +824,19 @@ help, and where will you leave your wealth?
 \v 12 When the Lord has finished his work on Mount Zion and on Jerusalem, he will speak: "I will punish the speech of the arrogant heart of the king of Assyria and his prideful looks."
 \v 13 For he says, 
 \q1 "By my strength and by my wisdom I acted. I have understanding,
-\q1  and I have removed the boundaries of the peoples. I have stolen their treasures, 
-\q1 and like a mighty man I have brought down those who sit on thrones.
+\q1 and I have removed the boundaries of the peoples. I have stolen their treasures, 
+\q1 and like a bull I have brought down the inhabitants.
 \q1
 
 \s5
 \v 14 My hand has seized, as from a nest, the wealth of nations, 
 \q1 and as one gathers abandoned eggs, I gathered all the earth. 
-\q1 None fluttered their  wings or opened their mouth or chirped."
+\q1 None fluttered their wings or opened their mouth or chirped."
 
 \s5
 \p
 \v 15 Will the ax boast about itself against the one who wields it? Will the saw praise itself more than the one who cuts with it?
-\q1 It as if a rod could lift up those who raise it, or as if a wooden club could lift up a person.
+\q1 It is as if a rod could lift up those who raise it, or as if a wooden club could lift up a person.
 \q1
 \v 16 Therefore the Lord Yahweh of hosts will send emaciation among his elite warriors;
 \q1 and under his glory there will be kindled a burning like fire.
@@ -865,7 +870,8 @@ He will strike you with the rod and raise his staff against you, as the Egyptian
 \v 26 Then Yahweh of hosts will wield a whip against them, as when he defeated Midian at the rock of Oreb. He will raise his rod over the sea and lift it up as he did in Egypt.
 \v 27 On that day,
 \q1 his burden is lifted from your shoulder and his yoke from off your neck, 
-\q1 and the yoke will be destroyed, because your neck will be too fat for it.
+\q1 and the yoke will be destroyed because of fatness.
+\f + \ft The last line of this verse is difficult because it does not seem to fit the context. Some modern versions leave out \fqa because of fatness \fqb . Other modern versions have \fqa and the yoke will be destroyed from off your neck. He has gone up from Rimmon. \fqb Here \fqa He \fqb means the Assyrian king and his army. \f*
 \p 
 \q1
 
@@ -884,8 +890,8 @@ He will strike you with the rod and raise his staff against you, as the Egyptian
 \v 31 Madmenah is fleeing, 
 \q1 and the inhabitants of Gebim run for safety.
 \q1
-\v 32 This very day  he will halt 
-\q1 at Nob and shake his fist at the mount of the daughter of Zion, the hill of Jerusalem.
+\v 32 This very day he will halt 
+\q1 at Nob and shake his fist at the mountain of the daughter of Zion, the hill of Jerusalem.
 \q1
 
 \s5
@@ -911,7 +917,7 @@ what his ears hear.
 \q1
 \v 4 Instead, he will judge the poor with righteousness and decide fairly for the humble of the earth. 
 \q1 He will strike the
-earth with the rod of his mouth, and with the breath of his lips he will  slay the wicked.
+earth with the rod of his mouth, and with the breath of his lips he will slay the wicked.
 \q1
 \v 5 Righteousness will be the belt of his waist, and faithfulness the belt around his hips.
 \q1
@@ -936,14 +942,14 @@ waters cover the sea.
 \q1
 
 \s5
-\v 10 On that day,  the root of Jesse will stand as a banner for the peoples. 
+\v 10 On that day, the root of Jesse will stand as a banner for the peoples. 
 \q1
-The nations will  seek him out, and his resting place will be glorious.
+The nations will seek him out, and his resting place will be glorious.
 \q1
 \v 11 On that day, the Lord will again extend his hand 
 \q1 to recover the remnant of
 his people who remain in Assyria, Egypt, 
-\q1 Pathros, Cush,  Elam, Shinar, Hamath, and the islands of the sea.
+\q1 Pathros, Cush, Elam, Shinar, Hamath, and the islands of the sea.
 \q1
 
 \s5
@@ -951,17 +957,17 @@ his people who remain in Assyria, Egypt,
 \q1 and the dispersed
 of Judah from the four corners of the earth.
 \q1
-\v 13 He will stop the envy of Ephraim, and those hostile to Judah will be cut off. 
+\v 13 He will turn aside the envy of Ephraim, and hostilities of Judah will be cut off. 
 \q1 Ephraim will not envy Judah, and Judah
 will no longer be hostile to Ephraim.
 \q1
 
 \s5
-\v 14 Instead they will swoop down on the Philistine hills on the west, and together they will will plunder the people of the
+\v 14 Instead they will swoop down on the Philistine hills on the west, and together they will plunder the people of the
 east. 
 \q1 They will attack Edom and Moab, and the people of Ammon will obey them.
 \q1
-\v 15 Yahweh will completely destroy the gulf of the sea of Egypt.  With his scorching wind he will wave his hand over
+\v 15 Yahweh will completely destroy the gulf of the Sea of Egypt. With his scorching wind he will wave his hand over
 the Euphrates River 
 \q1 and will divide it into seven streams, so it can be crossed over in sandals.
 \q1
@@ -974,7 +980,7 @@ the Euphrates River
 \c 12
 \p
 \v 1 On that day you will say, 
-\q1 "I will give thanks to you, Yahweh. For though you were angry with me, your wrath   
+\q1 "I will give thanks to you, Yahweh. For though you were angry with me, your wrath  
 has turned away, and you have comforted me.
 \q1
 \v 2 See, God is my salvation; I will trust and will not fear, 
@@ -998,7 +1004,7 @@ has turned away, and you have comforted me.
 \p
 \v 1 A declaration about Babylon, that Isaiah son of Amoz received:
 \q1
-\v 2  On the bare mountain set up a signal flag, cry aloud to them, 
+\v 2 On the bare mountain set up a signal flag, cry aloud to them, 
 \q1 wave your hand for them to go into the gates of
 the nobles.
 \q1
@@ -1019,11 +1025,11 @@ destroy the whole land.
 \s5
 \v 6 Howl, for the day of Yahweh is near; it comes with destruction from the Almighty.
 \q1
-\v 7 Therefore all hands hang limp, and every heart melts;
+\v 7 Therefore all hands hang limp, and every heart melts.
 \q1
 \v 8 They will be terrified; pangs and sorrows will seize
  them, like a woman in labor. 
-\q1 They will look in astonishment  at one another; their faces will be aflame.
+\q1 They will look in astonishment at one another; their faces will be aflame.
 \q1
 
 \s5
@@ -1059,14 +1065,14 @@ of the proud and will bring down the arrogance of the ruthless.
 
 \s5
 \v 17 Look, I am about to stir up the Medes to attack them, 
-\q1 who will not be concerned about silver, nor do they delight  in gold.
+\q1 who will not be concerned about silver, nor do they delight in gold.
 \q1
 \v 18 Their arrows will pierce the young men. 
 \q1 They will have no pity on babies and will not spare children.
 \q1
 
 \s5
-\v 19 And Babylon, the most admired of kingdoms, the splendor of  Chaldean pride, 
+\v 19 And Babylon, the most admired of kingdoms, the splendor of Chaldean pride, 
 \q1 will be overthrown by God like Sodom and
 Gomorrah.
 \q1
@@ -1084,14 +1090,15 @@ tent there, nor will shepherds have their flocks rest there.
 \s5
 \c 14
 \p
-\v 1 Yahweh will have compassion on Jacob; he will again choose Israel and restore them into their own land. Foreigners will join with them and  attach themselves to the house of Jacob. 
-\v 2 The nations will bring  them to their own place. Then the house of Israel will take them in the land of Yahweh as male and female servants. They will take captive those who had captured them, and they will rule over their oppressors.
+\v 1 Yahweh will have compassion on Jacob; he will again choose Israel and restore them into their own land. Foreigners will join with them and attach themselves to the house of Jacob. 
+\v 2 The nations will bring them to their own place. Then the house of Israel will take them in the land of Yahweh as male and female servants. They will take captive those who had captured them, and they will rule over their oppressors.
 
 \s5
 \p
 \v 3 On the day that Yahweh gives you rest from your suffering and anguish, and from the hard labor which you were required to perform, 
 \v 4 you will sing this taunt song against the king of Babylon, 
 \q1 "How the oppressor has come to an end, the proud fury ended!
+\f + \ft Instead of \fqa the proud fury ended \fqb , some versions have \fqa the golden city ended \fqb , \fqa the turmoil ended \fqb , \fqa the hostility ended \fqb , or \fqa the arrogance ended \fqb . \f*
 \q1
 
 \s5
@@ -1105,7 +1112,7 @@ unrestrained.
 \s5
 \v 7 The whole earth is at rest and is quiet; they begin celebrating with singing.
 \q1
-\v 8 Even the fir trees rejoice over you with the cedars of Lebanon;
+\v 8 Even the cypress trees rejoice over you with the cedars of Lebanon;
 \q1 they say, 'Since you are laid low, no woodcutter comes up to cut us down.'
 \q1
 \v 9 Sheol below is eager to meet you when you go there.
@@ -1115,11 +1122,11 @@ of the earth,
 \q1
 
 \s5
-\v 10 They all will  speak and say to you, 
+\v 10 They all will speak and say to you, 
 \q1 'You have become as weak as us. You have become like us.
 \q1
-\v 11 Your pomp has been brought down to sheol with the sound of  your string instruments.  
-\q1 Maggots  are spread under you, and worms cover
+\v 11 Your pomp has been brought down to sheol with the sound of your string instruments. 
+\q1 Maggots are spread under you, and worms cover
 you.'
 \p
 \q1
@@ -1142,17 +1149,17 @@ the nations!
 \v 16 Those who see you will gaze at you; they will consider you. 
 \q1 They will say ,'Is this the man who made the earth tremble, who shook kingdoms,
 \q1
-\v 17 who  made the world a wilderness, who overthrew its cities and did not let  his prisoners go to their homes?'
+\v 17 who made the world a wilderness, who overthrew its cities and did not let his prisoners go to their homes?'
 \q1
 
 \s5
 \v 18 All the kings of the nations, 
 \q1 all of them, sleep in glory, every one in his own tomb.
 \q1
-\v 19 But you are cast out of your grave like a branch thrown away 
-\q1 the dead cover you like a garment, those pierced by the sword—those who go down to the stones of the pit.
+\v 19 But you are cast out of your grave like a branch thrown away. 
+\q1 The dead cover you like a garment, those pierced by the sword—those who go down to the stones of the pit.
  \q1
-\v 20 Like  a dead body trampled under, you will never join with them in burial, 
+\v 20 Like a dead body trampled under, you will never join with them in burial, 
 \q1 because you have destroyed your land. You who have killed your people 
 \q1 are the son of evildoers and will never be mentioned again."
 \p
@@ -1160,7 +1167,7 @@ the nations!
 
 \s5
 \v 21 Prepare your slaughter for his children, for the iniquity of their ancestors, 
-\q1 so  they will not rise up and possess the earth
+\q1 so they will not rise up and possess the earth
 and fill the whole world with cities.
 \q1
 \v 22 "I will rise up against them"—this is the declaration of Yahweh of hosts. 
@@ -1177,7 +1184,7 @@ and fill the whole world with cities.
 it will be:
 \q1
 \v 25 I will break the Assyrian in my land, and on my mountains trample him under foot. 
-\q1 Then his yoke  will  be lifted from
+\q1 Then his yoke will be lifted from
 off them and his burden from off their shoulder."
 \q1
 
@@ -1189,7 +1196,7 @@ off them and his burden from off their shoulder."
 
 \s5
 \p
-\v 28 In the year that king Ahaz died this declaration  came:
+\v 28 In the year that king Ahaz died this declaration came:
 \q1
 \v 29 Do not rejoice, Philistia, because the rod that struck you is broken. 
 \q1 For out of the serpent's root will
@@ -1200,7 +1207,7 @@ come an adder, and his offspring will be a fiery flying serpent.
 \q1
 
 \s5
-\v 31 Howl, gate; cry, city; all of  you will melt away, Philistia. 
+\v 31 Howl, gate; cry, city; all of you will melt away, Philistia. 
 \q1 For out of the north comes a cloud of smoke, and
 there is no straggler in his ranks.
 \q1
@@ -1211,11 +1218,11 @@ there is no straggler in his ranks.
 \c 15 
 \p
 \v 1 A declaration about Moab. 
-\q1 Indeed,  in one night Ar of Moab is laid waste and destroyed; 
+\q1 Indeed, in one night Ar of Moab is laid waste and destroyed; 
 \q1 indeed, in one night Kir of Moab is laid waste and destroyed.
 \q1
-\v 2 They have gone up to the temple, the people of Dibon went up to the high places to weep; 
-\q1 Moab laments over Nebo and over Medeba.  
+\v 2 They have gone up to the temple, the people of Dibon went up to the heights to weep; 
+\q1 Moab laments over Nebo and over Medeba. 
 \q1 All their heads are shaved bare and all their beards are cut off.
 \q1
 
@@ -1223,16 +1230,16 @@ there is no straggler in his ranks.
 \v 3 In their streets they wear sackcloth; on their housetops 
 \q1 and in the square everyone wails, melting in tears.
 \q1
-\v 4  Heshbon and Elealeh call out for help; their sound is heard as far as Jahaz. 
+\v 4 Heshbon and Elealeh call out for help; their sound is heard as far as Jahaz. 
 \q1 So the armed men of Moab call out for help; they tremble within themselves.
 \q1
 
 \s5
 \v 5 My heart cries out for Moab; her fugitives flee to Zoar and to Eglath Shelishiyah. 
-\q1 They go up the ascent of Luhith  weeping; 
+\q1 They go up the ascent of Luhith weeping; 
 \q1 on the road to Horonaim they loudly wail over their destruction.
 \q1
-\v 6 The waters of Nimrim have dried up;  
+\v 6 The waters of Nimrim have dried up; 
 \q1 the grass is withered away and the new grass dies; nothing is green.
 \q1
 \v 7 The abundance they have grown and stored 
@@ -1264,13 +1271,13 @@ there is no straggler in his ranks.
 \v 4 Let them live among you, the refugees from Moab;
 \q1 be a hiding place for them from the destroyer." 
 \m
-\q1 For the the oppression will stop, and destruction will cease, 
+\q1 For the oppression will stop, and destruction will cease, 
 \q1 those who trample will disappear from the land.
 \q1
 
 \s5
 \v 5 A throne will be established in covenant faithfulness; and one from David's tent will faithfully sit there. 
-\q1 He will  judge as he seeks justice and does righteousness.
+\q1 He will judge as he seeks justice and does righteousness.
 \p
 \q1
 
@@ -1292,7 +1299,7 @@ there is no straggler in his ranks.
 \s5
 \v 9 Indeed I will weep along with Jazer for the vineyard of Sibmah. 
 \q1 I will water you with my tears, Heshbon, and Elealeh. 
-\q1 For on your fields of  summer fruits and harvest I have ended the shouts of joy.
+\q1 For on your fields of summer fruits and harvest I have ended the shouts of joy.
 \q1
 \v 10 Gladness and joy disappear from the fruit tree groves; and in your vineyards there is no singing nor
 joyful shouts. 
@@ -1308,7 +1315,7 @@ joyful shouts.
 \s5
 \p
 \v 13 This is the word that Yahweh spoke concerning Moab previously.
-\v 14 Again Yahweh speaks, "Within three years, the glory of Moab will disappear; in spite of his many people,  the remnant will be very few and insignificant."
+\v 14 Again Yahweh speaks, "Within three years, the glory of Moab will disappear; in spite of his many people, the remnant will be very few and insignificant."
 
 \s5
 \c 17
@@ -1391,7 +1398,7 @@ rushing of mighty waters!
 \q1 like the simmering heat in sunshine, like a cloud of mist in the heat of harvest."
 \q1
 \v 5 Before the harvest, when the blossoming is over, and the flower is ripening into a grape, 
-\q1 he will cut off the sprigs with pruning hooks, and  he will cut down and take away the spreading branches. 
+\q1 he will cut off the sprigs with pruning hooks, and he will cut down and take away the spreading branches. 
 \q1
 
 \s5
@@ -1414,8 +1421,8 @@ rushing of mighty waters!
 \q1
 
 \s5
-\v 3 The spirit of Egypt will be weakened from within.  I will destroy his advice, 
-\q1 though they sought the advice of idols, dead mens' spirits, mediums, and spiritualists.
+\v 3 The spirit of Egypt will be weakened from within. I will destroy his advice, 
+\q1 though they sought the advice of idols, dead men's spirits, mediums, and spiritualists.
 \q1
 \v 4 I will give the Egyptians into the hand of a harsh master, and a strong king will rule over them—
 \q1 this is the declaration of the Lord, Yahweh of hosts."
@@ -1433,8 +1440,8 @@ rushing of mighty waters!
 \v 7 The reeds by the Nile, 
 \q1 by the mouth of the Nile, and all the sown fields of the Nile will dry up, turn to dust, and blow away.
 \q1
-\v 8 The fishermen will wail and mourn, and all who cast a hook into the Nile will mourn 
-\q1 like those who spread nets on the waters will grieve.
+\v 8 The fishermen will wail and mourn, and all who cast a hook into the Nile will mourn, 
+\q1 and those who spread nets on the waters will grieve.
 \q1
 
 \s5
@@ -1454,6 +1461,7 @@ rushing of mighty waters!
 
 \s5
 \v 13 The princes of Zoan have become fools, the princes of Memphis are deceived; they have made Egypt go astray, who are the cornerstones of her tribes.
+\f + \ft Instead of \fqa Memphis \fqb , some versions have \fqa Noph \fqb , the Hebrew name for the same city in Egypt. \f*
 \q1
 \v 14 Yahweh has mixed a spirit of distortion into her midst, 
 \q1 and they have led Egypt astray in all she does, like a drunk staggering in his vomit.
@@ -1462,10 +1470,11 @@ rushing of mighty waters!
 
 \s5
 \v 16 In that day, the Egyptians will be like women. They will tremble and fear because of the upraised hand of Yahweh of hosts that he raises over them.
-\v 17 The land of Judah will become a cause of staggering to Egypt. Whenever anyone reminds them of her, they will be afraid, because of the plan of Yahweh, that  he is planning against them.
+\v 17 The land of Judah will become a cause of staggering to Egypt. Whenever anyone reminds them of her, they will be afraid, because of the plan of Yahweh, that he is planning against them.
 
 \s5
 \v 18 In that day there will be five cities in the land of Egypt that speak the language of Canaan and swear allegiance to Yahweh of hosts. One of these cities will be called The City of the Sun.
+\f + \ft Instead of \fqa The City of the Sun \fqb , which probably refers to the Egyptian city of Heliopolis, some ancient and modern versions have \fqa The City of Destruction \fqb . \f*
 
 \s5
 \p
@@ -1481,17 +1490,17 @@ rushing of mighty waters!
 \v 23 In that day there will be a highway from Egypt to Assyria, and the Assyrian will come to Egypt, and the Egyptian to Assyria; and the Egyptians will worship with the Assyrians.
 
 \s5
-\v 24 In that day, Israel will be the third with Egypt and  Assyria, a blessing in the midst of the earth;
+\v 24 In that day, Israel will be the third with Egypt and Assyria, a blessing in the midst of the earth;
 \v 25 Yahweh of hosts will bless them and say, "Blessed be Egypt, my people; Assyria, the work of my hands; and Israel, my inheritance."
 
 \s5
 \c 20
 \p
 \v 1 In the year that Tartan came to Ashdod, when Sargon the king of Assyria sent him, he fought against Ashdod and took it.
-\v 2 At that time Yahweh spoke by Isaiah son of Amoz and said, "Go and remove the sackcloth from your waist, and take your sandals off your foot." He did so, walking naked and barefoot.
+\v 2 At that time Yahweh spoke by Isaiah son of Amoz and said, "Go and remove the sackcloth from your waist, and take your sandals off your feet." He did so, walking naked and barefoot.
 
 \s5
-\v 3 Yahweh said, "Just as my servant Isaiah has walked naked and barefoot for three years, it is  a sign and an omen concerning Egypt and concerning Ethiopia—
+\v 3 Yahweh said, "Just as my servant Isaiah has walked naked and barefoot for three years, it is a sign and an omen concerning Egypt and concerning Ethiopia—
 \v 4 in this way the king of Assyria will lead away the captives of Egypt, and the exiles of Ethiopia, young and old, naked and barefoot, and with buttocks uncovered, to the shame of Egypt.
 
 \s5
@@ -1499,7 +1508,7 @@ rushing of mighty waters!
 \v 6 The inhabitants of these coasts will say on that day, 'Indeed, this was our source of hope, where we fled for help to be rescued from the king of Assyria, and now, how can we escape?'"
 
 \s5
-\c 21  
+\c 21 
 \p
 \v 1 A declaration about the desert by the sea.
 \p 
@@ -1530,17 +1539,18 @@ rushing of mighty waters!
 \v 6 For this is what the Lord said to me,
 \q1 "Go, post a watchman; he must report what he sees.
 \q1
-\v 7 When he sees a chariot, horsemen in pairs,
-\q1 riders on donkeys, riders on camels, 
+\v 7 When he sees a chariot, a pair of horsemen,
+\q1 riders on donkeys, and riders on camels, 
 \q1 then he must pay attention and be very alert."
 \q1
 
 \s5
-\v 8 The watcher cries out, 
+\v 8 The watchman cries out, 
+\f + \ft Instead of \fqa The watchman cries out \fqb , some older versions have \fqa A lion cries out \fqb . \f*
 \q1 "Lord, on the watchtower I stand all day, every day, 
 \q1 and at my post I stand all night long."
 \q1 
-\v 9 Here comes a charioteer with a troop of men, horsemen in pairs. 
+\v 9 Here comes a chariot with a man and a pair of horsemen. 
 \q1 He calls out, "Babylon has fallen, fallen, 
 \q1 and all the carved figures of its gods are broken to the ground."
 \q1
@@ -1564,22 +1574,22 @@ rushing of mighty waters!
 \p 
 \q1 In the wilderness of Arabia you spend the night, you caravans of Dedanites.
 \q1
-\v 14 Bring water for the thirsty;  
+\v 14 Bring water for the thirsty; 
 \q1 inhabitants of the land of Tema, meet the fugitives with bread.
 \q1
 \v 15 For they have fled from the sword, from the drawn sword, 
 \q1 from the bent bow, and from the weight of war.
 
 \s5
-\v 16 For this is what  the Lord said to me, "Within a year, as a laborer hired for a year would see it, all the glory of Kedar will end.
+\v 16 For this is what the Lord said to me, "Within a year, as a laborer hired for a year would see it, all the glory of Kedar will end.
 \v 17 Only a few of the archers, the warriors of Kedar will remain," for Yahweh, the God of Israel, has spoken.
 
 \s5
-\c 22  
+\c 22 
 \p
 \v 1 A declaration about the valley of vision:
 \q1
-\p What is the reason  that you all have gone up to the housetops?
+\p What is the reason that you all have gone up to the housetops?
 \q1
 \v 2 A noisy city, a town full of revelry; 
 \q1 your dead were not killed with the sword, and they did not die in battle.
@@ -1637,7 +1647,7 @@ rushing of mighty waters!
 \s5
 \v 15 The Lord, Yahweh of hosts, says this, "Go to this administrator, to Shebna, who is over the house, and say,
 \q1
-\v 16 'What do you have  here, and who are you, that you have hewn out a grave?
+\v 16 'What do you have here, and who are you, that you have hewn out a grave?
 \q1 Hewing out a grave on the heights, carving out a resting place for yourself in the rock!'"
 \q1
 
@@ -1661,27 +1671,29 @@ rushing of mighty waters!
 \q1
 
 \s5
-\v 23 I will fasten him like a nail in a secure place, 
-\q1 and he will become a throne of glory to his father's house.
+\v 23 I will fasten him, a peg in a secure place, 
+\q1 and he will become a seat of glory for his father's house.
 \q1
-\v 24 They will hang upon him all the glory of his father's house, the offspring and descendants, every small vessel 
+\v 24 They will hang on him all the glory of his father's house, the offspring and descendants, every small container  
 \q1 from the cups to all the jugs.
 
 \s5
-\v 25 On that day—this is the declaration of Yahweh of hosts—the peg driven in a firm place will give way, break off,  and fall, and the weight that was on it will be cut off—for Yahweh has spoken.
+\v 25 On that day—this is the declaration of Yahweh of hosts—the peg driven in a firm place will give way, break off, and fall, and the weight that was on it will be cut off—for Yahweh has spoken."
 
 \s5
 \c 23
 \p
 \v 1 A declaration about Tyre: 
 \q1 Howl, you ships of Tarshish; for there is neither home nor harbor; 
-\q1 from the land of Kittim it has been revealed to them.
+\q1 from the land of Cyprus it has been revealed to them.
+\f + \ft Instead of \fqa Cyprus \fqb , some modern versions keep \fqa Kittim \fqb , the Hebrew name for this island. \f*
 \q1
-\v 2 Be astounded, you inhabitants of the coast, you merchants of Sidon,
-\q1 who travel over the sea, whose agents supply you.
+\v 2 Be silent, you inhabitants of the coast; the merchant of Sidon,
+\q1 who travels over the sea, has filled you.
+\f + \ft Some ancient and modern versions have \fqa Be silent, you inhabitants of the coast; the merchants of Sidon, who travel over the sea, have filled you \fqb or \fqa Be silent, you inhabitants of the coast and you merchants of Sidon, whom those who travel over the sea have filled \fqb . \f* 
 \q1
-\v 3 And on great waters 
-\q1 the grain of the Shihor region, the harvest of the Nile, was brought to Tyre; she was the marketplace of nations.
+\v 3 And on great waters was the grain of Shihor, 
+\q1 the harvest of the Nile, her produce; you were the commerce of nations.
 
 \s5
 \v 4 Be ashamed, Sidon; for the sea has spoken, the mighty one of the sea. He says,
@@ -1709,6 +1721,7 @@ rushing of mighty waters!
 
 \s5
 \v 10 Plow your land, as one plows the Nile, daughter of Tarshish. There is no longer a marketplace in Tyre.
+\f + \ft Instead of \fqa Plow your land \fqb , some versions have \fqa Pass through your land \fqb or \fqa Overflow your land \fqb . \f*
 \q1
 \v 11 Yahweh has reached out with his hand over the sea, and he has shaken the kingdoms; 
 \q1 he has given a command concerning Phoenicia, to destroy the strongholds.
@@ -1720,7 +1733,7 @@ rushing of mighty waters!
 
 \s5
 \v 13 See the land of the Chaldeans. This people has ceased to be; the Assyrians have made it a wilderness for wild animals.
-\q1 They set up their siege towers; they demolished its palaces; they made it a  heap of ruins.
+\q1 They set up their siege towers; they demolished its palaces; they made it a heap of ruins.
 \q1
 \v 14 Howl, you ships of Tarshish; for your refuge has been destroyed.
 
@@ -1766,7 +1779,7 @@ may be remembered.
 \v 8 The happy sound of the tambourines stops, and the revelry of those who rejoice; 
 \q1 the joy of the lyre ceases.
 \q1
-\v 9 They no longer drink wine and sing, and the beer is  bitter to those who drink it.
+\v 9 They no longer drink wine and sing, and the beer is bitter to those who drink it.
 \q1
 
 \s5
@@ -1810,7 +1823,7 @@ may be remembered.
 \v 19 The earth will be completely broken, the earth ripped apart; 
 \q1 the earth will be violently shaken.
 \q1
-\v 20 The earth will stagger like a drunken man and will sway to and fro like a hammock.  
+\v 20 The earth will stagger like a drunken man and will sway to and fro like a hammock. 
 \q1 The transgression of it will be heavy on it, and it will fall and not rise again.
 \p
 \q1
@@ -1820,7 +1833,7 @@ may be remembered.
 \q1 and the kings of the earth on the earth.
 \q1
 \v 22 They will be gathered together, prisoners in a pit, and will be shut up in a prison; 
-\q1 and after many days they will be sentenced.
+\q1 and after many days they will be punished.
 \q1
 \v 23 Then the moon will be ashamed, and the sun disgraced, for Yahweh of hosts will reign 
 \q1 on Mount Zion and in Jerusalem, and before his elders in glory.
@@ -1854,7 +1867,7 @@ may be remembered.
 \q1 of choice wines, of tender meats, a feast on the lees.
 \q1
 \v 7 He will destroy on this mountain the covering over all peoples, 
-\q1 the web woven over  all the nations.
+\q1 the web woven over all the nations.
 \q1
 \v 8 He will swallow up death forever, 
 \q1 and the Lord Yahweh will wipe away tears from off all faces;
@@ -1871,8 +1884,8 @@ may be remembered.
 \q1
 
 \s5
-\v 11 They will spread their hands in the midst of it, as a swimmer spreads his hands to swim; 
-\q1 but Yahweh will bring down their pride in spite of the struggles of their hands.
+\v 11 They will spread their hands in the midst of it, as a swimmer spreads his hands to swim. 
+\q1 But Yahweh will bring down their pride in spite of the skill of their hands.
 \q1
 \v 12 Your high fortress walls he will bring down to the ground, to the dust.
 
@@ -1886,14 +1899,14 @@ may be remembered.
 \q1
 
 \s5
-\v 3 the mind that is stayed on you, you will keep him in perfect peace, for he trusts in you.
+\v 3 The mind that is stayed on you, you will keep him in perfect peace, for he trusts in you.
 \q1
 \v 4 Trust in Yahweh forever; for in Yah, Yahweh, is an everlasting rock.
 \q1
 
 \s5
-\v 5 For he will bring  down those who live proudly; the fortified city 
-\q1 he will  lay low, he will lay low to the ground; he will level it to the dust.
+\v 5 For he will bring down those who live proudly; the fortified city 
+\q1 he will lay low, he will lay low to the ground; he will level it to the dust.
 \q1
 \v 6 It will be trampled down by the feet of the poor and the treading of the needy.
 \q1
@@ -1902,7 +1915,7 @@ may be remembered.
 \v 7 The path of the righteous is level, Righteous One; the path of the righteous you make straight.
 \p
 \q1
-\v 8 Yes, in the way of your judgments, Yahweh, we wait for you; 
+\v 8 Yes, in the path of your judgments, Yahweh, we wait for you; 
 \q1 your name and your reputation are our desire.
  \q1
 \v 9 I have longed for you in the night; yes, my spirit within me seeks you earnestly. 
@@ -1926,7 +1939,7 @@ may be remembered.
 \v 13 Yahweh our God, other masters besides you have ruled over us; but we praise your name alone.
 \q1
 \v 14 They are dead, they will not live; they are deceased, they will not arise. 
-\q1 Indeed,  you came in judgment and destroyed them, and made every memory of them to perish.
+\q1 Indeed, you came in judgment and destroyed them, and made every memory of them to perish.
 \q1
 
 \s5
@@ -1936,9 +1949,10 @@ may be remembered.
 \q1
 
 \s5
-\v 16 Yahweh, in trouble have they looked to you; they even uttered incantations against evil when your discipline was on them.
+\v 16 Yahweh, in trouble have they looked to you; they whispered prayers when your discipline was on them.
+\f + \ft This difficult verse has many different translations among modern versions. \f*
 \q1
-\v 17 Like when a pregnant woman nears the time for her to give birth, she is in pain and cries out in her labor pains; 
+\v 17 As a pregnant woman nears the time for her to give birth, when she is in pain and cries out in her labor pains, 
 \q1 so we have been before you, Lord.
 \q1
 
@@ -1992,12 +2006,13 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \v 7 Has Yahweh attacked Jacob and Israel as he attacked those nations who attacked them? Have Jacob and Israel been killed as in the slaughter of those nations that were killed by them?
 \q1
 \v 8 In exact measure you have contended, sending Jacob and Israel away; he drove them away with his severe wind, on the day of the east wind.
+\f + \ft Instead of \fqa In exact measure \fqb , many modern versions have an idea similar to \fqa By driving them away \fqb . \f* 
 \q1
 
 \s5
 \v 9 So in this way, the iniquity of Jacob will be atoned for, for this will be the full fruit of turning away from his sin: 
-\q1 He will make all the the altar stones as chalk and pulverized, 
-\q1 and  no Asherah poles or incense altars will remain standing.
+\q1 He will make all the altar stones as chalk and pulverized, 
+\q1 and no Asherah poles or incense altars will remain standing.
 \q1
 
 \s5
@@ -2012,7 +2027,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 
 \s5
 \v 12 It will come about on that day
-\q1 that Yahweh will thresh from flowing stream of the Euphrates River, to the brook of Egypt, 
+\q1 that Yahweh will thresh from the flowing stream of the Euphrates River, to the brook of Egypt, 
 \q1 and you will be gathered one by one, people of Israel.
 \q1
 \v 13 On that day a great trumpet will be blown; 
@@ -2027,14 +2042,15 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1 that is on the head of the lush valley of those who are overcome with wine!
 \q1
 \v 2 Behold, the Lord has a mighty and strong one; as a hailstorm, 
-\q1 a destroying storm, as a cloudburst of might and overwhelming. He will strike the earth with his hand.
+\q1 a destroying storm, as a cloudburst of might and overwhelming, 
+\q1 he will strike the earth with his hand.
 \q1
 
 \s5
 \v 3 The proud garland of the drunkards of Ephraim will be trodden underfoot.
 \q1
 \v 4 The fading flower of his glorious beauty, that is on the head of the rich valley, 
-\q1 will be as the first ripe fig before the summer, that, when  someone sees it,
+\q1 will be as the first ripe fig before the summer, that, when someone sees it,
 \q1 while it is yet in his hand, he gulps it down.
 \q1
 
@@ -2071,7 +2087,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1
 
 \s5
-\v 13 So  the word of Yahweh will be to them 
+\v 13 So the word of Yahweh will be to them 
 \q1 command upon command, command upon command; rule upon rule, rule upon rule; 
 \q1 here a little, there a little; 
 \q1 so that they may go and fall backward, and be broken, ensnared, and captured.
@@ -2095,7 +2111,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 
 \s5
 \v 17 I will make justice the measuring stick, and righteousness the plumbline. 
-\q1 Hail will sweep away the refuge of lies, and the  floodwaters will overwhelm the hiding place.
+\q1 Hail will sweep away the refuge of lies, and the floodwaters will overwhelm the hiding place.
 \q1
 
 \s5
@@ -2103,19 +2119,19 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1 When the raging flood passes through, you will be overwhelmed by it.
 \q1
 \v 19 Whenever it passes through, it will overwhelm you, 
-\q1 and morning by morning it will pass through and  by day and  night it will come. 
+\q1 and morning by morning it will pass through and by day and night it will come. 
 \q1 When the message is understood, it will cause terror.
 \q1
 
 \s5
-\v 20 For the bed is too short for a man to stretch out on, and the blanket  too narrow for him to  wrap himself in."
+\v 20 For the bed is too short for a man to stretch out on, and the blanket too narrow for him to wrap himself in."
 \q1
 \v 21 Yahweh will rise up as on Mount Perazim; he will rouse himself as in the valley of Gibeon 
 \q1 to do his work, his strange work, and perform his strange deed.
 \q1
 
 \s5
-\v 22 Now therefore do not mock, or your bonds will be tightened.  
+\v 22 Now therefore do not mock, or your bonds will be tightened. 
 \q1 I have heard from the Lord, Yahweh of hosts, a decree of destruction on the earth.
 \p
 \q1
@@ -2129,6 +2145,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \s5
 \v 25 When he has prepared the ground, does he not scatter caraway seed, sow the cumin, 
 \q1 put in the wheat in rows and the barley in the right place, and the spelt at its edges?
+\f + \ft The identification of some of these spices is in doubt, so versions have a variety of translations. In addition, some versions give different interpretations to the expressions translated here as \fqa in rows \fqb and \fqa in the right place \fqb , because these expressions are uncertain in Hebrew. \f*
 \q1
 \v 26 His God instructs him; he teaches him wisely.
 \q1
@@ -2160,7 +2177,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \v 3 I will encamp against you in a circle 
 \q1 and will lay siege against you with a palisade, and I will raise siege works against you.
 \q1
-\v 4 You will  be brought down and will speak from the ground; your speech will be low from the dust. 
+\v 4 You will be brought down and will speak from the ground; your speech will be low from the dust. 
 \q1 Your voice will be like a ghost out of the ground, and your speech will be very weak from the dust.
 \p
 \q1
@@ -2176,7 +2193,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \s5
 \v 7 It will be like a dream, a vision of the night:
 \q1 A horde of all the nations will fight against Ariel
-\q1 and her stronghold. They will  attack her and her fortifications to press upon her.
+\q1 and her stronghold. They will attack her and her fortifications to press upon her.
 \q1 
 \v 8 It will be like when a hungry man dreams he is eating, but when he awakes, his stomach is empty.
 \q1 It will be like when a thirsty man dreams that he is drinking, but he when he awakes, he is fainting, with his thirst is unquenched.
@@ -2189,18 +2206,18 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1 Be drunk, but not with wine; stagger, but not with beer.
 \q1
 \v 10 For Yahweh has poured out on you the spirit of deep sleep. 
-\q1 He  has closed your eyes, the prophets, and has covered your heads, the seers.
+\q1 He has closed your eyes, the prophets, and has covered your heads, the seers.
 
 \s5
-\v 11 All revelation has become to you as the words of a book that is sealed, which men might give to one who is learned,  saying, "Read this."  He also says, "I cannot, for it is sealed."
-\v 12 If the book is given to one who cannot read, saying, "Read this,"  he says, "I cannot read."
+\v 11 All revelation has become to you as the words of a book that is sealed, which men might give to one who is learned, saying, "Read this." He also says, "I cannot, for it is sealed."
+\v 12 If the book is given to one who cannot read, saying, "Read this," he says, "I cannot read."
 \p
 \q1
 
 \s5
-\v 13 The Lord said, "This people draws near to me with their mouth 
+\v 13 The Lord said, "This people comes close to me with their mouths 
 \q1 and honors me with their lips, but their heart is far from me. 
-\q1 Their honoring me is a commandment taught by men.
+\q1 Their honor for me is only a commandment of men that has been taught.
 \q1
 \v 14 Therefore, see, I will proceed to do a marvelous thing among this people, wonder after wonder. 
 \q1 The wisdom of their wise men will perish, and the understanding of their prudent men will disappear."
@@ -2208,8 +2225,8 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1
 
 \s5
-\v 15 Woe to those who deeply hide their plans  from Yahweh, 
-\q1 and whose deeds are in darkness. They say, "Who sees us, and who knows us?
+\v 15 Woe to those who deeply hide their plans from Yahweh, 
+\q1 and whose deeds are in darkness. They say, "Who sees us, and who knows us?"
 \q1
 
 \s5
@@ -2221,7 +2238,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 
 \s5
 \v 17 In just a little while, 
-\q1 Lebanon will be turned into a field, and the field will become  a forest.
+\q1 Lebanon will be turned into a field, and the field will become a forest.
 \q1
 \v 18 On that day the deaf will hear the words of a book, 
 \q1 and the eyes of the blind will see out of the deep darkness.
@@ -2240,7 +2257,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 
 \s5
 \v 22 Therefore this is what Yahweh says concerning the house of Jacob—Yahweh, who redeemed Abraham, 
-\q1  "Jacob will no longer be ashamed, nor will his face be pale.
+\q1 "Jacob will no longer be ashamed, nor will his face be pale.
 \q1
 \v 23 But when he sees his children, the work of my hands, they will make my name holy.
 \q1 They will make holy the name of the Holy One of Jacob and they will stand in awe of the God of Israel.
@@ -2276,7 +2293,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1 to a people who cannot help them.
 \q1
 \v 7 For Egypt's help is worthless; 
-\q1 therefore I have called  her Rahab, who sits still.
+\q1 therefore I have called her Rahab, who sits still.
 \p
 \q1
 
@@ -2298,8 +2315,8 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1
 
 \s5
-\v 12 Therefore  the Holy One of Israel says,
-\q1  "Because you reject this word 
+\v 12 Therefore the Holy One of Israel says,
+\q1 "Because you reject this word 
 \q1 and trust in oppression and deceit and lean on it,
 \q1
 \v 13 so this sin will be to you
@@ -2308,9 +2325,9 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1
 
 \s5
-\v 14 He will break it like a potter's vessel is broken; he will not spare it, 
+\v 14 He will break it as a potter's vessel is broken; he will not spare it, 
 \q1 so that there will not be found among its pieces a shard
-\q1  with which to scrape fire from the hearth, or to scoop up water out of the cistern.
+\q1 with which to scrape fire from the hearth, or to scoop up water out of the cistern.
 \p
 \q1
 
@@ -2335,7 +2352,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \v 18 Yet Yahweh waits to be gracious to you. Therefore he will be exalted, ready to have mercy on you.
 \q1 For Yahweh is a God of justice; blessed are all those who wait for him.
 \q1
-\v 19 For a people will live in Zion, in  Jerusalem, and you will weep no more. 
+\v 19 For a people will live in Zion, in Jerusalem, and you will weep no more. 
 \q1 He will surely be gracious to you at the sound of your cry. When he hears it, he will answer you.
 \q1
 
@@ -2354,8 +2371,8 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1
 
 \s5
-\v 23 He will give the rain for your seed when you  sow the ground, 
-\q1 and bread with abundance from the ground. And the crops will be  abundant. 
+\v 23 He will give the rain for your seed when you sow the ground, 
+\q1 and bread with abundance from the ground. And the crops will be abundant. 
 \q1 In that day your cattle will graze in broad pastures.
 \q1
 \v 24 The oxen and the donkeys, who plow the ground, will eat seasoned feed 
@@ -2366,8 +2383,8 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \v 25 On every high mountain and on every high hill, there will be flowing brooks and streams of waters, 
 \q1 in the day of the great slaughter when the towers fall.
 \q1
-\v 26 The light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter, like the sunlight of seven days.  
-\q1 Yahweh will  bind up the breaking of his people and heal the bruises of his wounding them.
+\v 26 The light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter, like the sunlight of seven days. 
+\q1 Yahweh will bind up the breaking of his people and heal the bruises of his wounding them.
 \p
 \q1
 
@@ -2385,7 +2402,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1
 
 \s5
-\v 30 Yahweh will make the splendor of his voice  heard and show the motion of his arm 
+\v 30 Yahweh will make the splendor of his voice heard and show the motion of his arm 
 \q1 in storming anger and flames of fire, with windstorm, rainstorm, and hailstones.
 \q1
 
@@ -2420,11 +2437,11 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1
 
 \s5
-\v 4 This is what Yahweh says to me,  
+\v 4 This is what Yahweh says to me, 
 \q1 "As a lion, even a young lion, growls over its torn prey, 
 \q1 when a group of shepherds is called out against it, 
-\q1 but it does not tremble  at their voices, nor creep away from  their sound; 
-\q1 thus Yahweh of hosts will descend  to fight on Mount Zion, on that hill.
+\q1 but it does not tremble at their voices, nor creep away from their sound; 
+\q1 thus Yahweh of hosts will descend to fight on Mount Zion, on that hill.
 \q1
 
 \s5
@@ -2434,6 +2451,8 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \v 6 Return to him from whom you have deeply turned away, people of Israel.
 \v 7 For in that day each one will get rid of his idols of silver and his idols of gold that your own hands have sinfully made.
 \q1
+
+\s5
 \v 8 Assyria will fall by the sword; a sword not wielded by man will consume him. 
 \q1 He will flee from the sword, and his young men will be forced to do hard labor.
 \q1
@@ -2455,7 +2474,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \s5
 \v 4 The rash will think carefully with understanding, and the stutterer will speak distinctly and with ease.
 \q1
-\v 5 The fool will no longer be  called honorable, nor the deceiver called principled.
+\v 5 The fool will no longer be called honorable, nor the deceiver called principled.
 \q1
 \v 6 For the fool speaks folly, and his heart plans evil
 \q1 and godless actions, and he speaks wrongly against Yahweh. 
@@ -2543,12 +2562,14 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \s5
 \v 7 Look, their envoys cry in the streets; the diplomats hoping for peace weep bitterly.
 \q1 
-\v 8 The highways are deserted; there are no more  travelers. 
-\q1 Treaties are broken, witnesses are despised, and cities are disrespected.
+\v 8 The highways are deserted; there are no more travelers. 
+\q1 Covenants are broken, witnesses are despised, and mankind is not respected.
+\f + \ft Instead of \fqa witness are despised \fqb , some versions have \fqa cities are despised \fqb . \f*
 \q1 
 
 \s5
-\v 9 The land mourns and withers away; Lebanon is confounded and withers away; 
+\v 9 The land mourns and withers away; Lebanon is ashamed and withers away; 
+\f + \ft Some versions have \fqa The land dries up and withers away \fqb . \f*
 \q1 Sharon is like a desert plain; and Bashan and Carmel shake off their leaves.
 \q1
 
@@ -2557,7 +2578,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1
 \v 11 You conceive chaff, and you give birth to stubble; your breath is a fire that will consume you.
 \q1
-\v 12 The peoples will be burned to lime, as thorn bushes are cut down and are burned.
+\v 12 The peoples will be burned to lime, as thornbushes are cut down and are burned.
 \p
 \q1
 
@@ -2589,9 +2610,9 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \s5
 \v 20 Look at Zion, the city of our feasts; 
 \q1 your eyes will see Jerusalem as a quiet habitation, a tent that will not be removed, 
-\q1 whose stakes will never be pulled up or will any of its cords be broken.
+\q1 whose stakes will never be pulled up nor will any of its cords be broken.
 \q1
-\v 21 Instead,  Yahweh in majesty will be with us, in a place of broad rivers and streams. 
+\v 21 Instead, Yahweh in majesty will be with us, in a place of broad rivers and streams. 
 \q1 No warship with oars will travel it, and no large ships will sail by.
 \q1
 
@@ -2601,7 +2622,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 
 \s5
 \v 23 Your riggings are slack; they cannot hold the mast in place; they cannot spread the sail;
-\q1 when the  great spoil is  divided, even the lame will drag off the spoil.
+\q1 when the great spoil is divided, even the lame will drag off the spoil.
 \q1
 \v 24 The inhabitants will not say, "I am sick;" the people who live there will be forgiven for their iniquity.
 
@@ -2609,7 +2630,7 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \c 34
 \p
 \q1
-\v 1 Come near, you nations, and listen; pay attention, you people!  
+\v 1 Come near, you nations, and listen; pay attention, you people! 
 \q1 The earth and all that fills it must listen, the world, and all things that come from it.
 \q1
 \v 2 For Yahweh is angry with all the nations, and furious against all their armies; 
@@ -2617,10 +2638,10 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \q1
 
 \s5
-\v 3 Their slain will be left unburied; the stench of their dead bodies will be everywhere, 
-\q1 and the mountains will be soaked with their blood.
+\v 3 The bodies of their dead will be thrown out. The stench of the dead bodies will be everywhere;
+\q1 and the mountains will soak up their blood.
 \q1
-\v 4 All the stars of the sky  will fade away, 
+\v 4 All the stars of the sky will fade away, 
 \q1 and the sky will be rolled up like a scroll; and all their stars will fade away, 
 \q1 as the leaf fades from off the vine, and as the overripe figs from the fig tree.
 \q1
@@ -2646,13 +2667,13 @@ will uncover her bloodshed, and will no longer conceal her slain.
 \v 9 The streams of Edom will be turned into pitch, her dust into sulfur, 
 \q1 and her land will become burning pitch.
 \q1
-\v 10 It will burn night and day; its smoke will rise  forever; 
+\v 10 It will burn night and day; its smoke will rise forever; 
 \q1 from generation to generation it will
 be a wasteland; no one will pass through it forever and ever.
 \q1
 
 \s5
-\v 11 But wild birds and animals will live there; the owl and the raven will make their nest in it.  
+\v 11 But wild birds and animals will live there; the owl and the raven will make their nest in it. 
 \q1 He will stretch over it the measuring line of ruin and the plumbline of destruction.
 \q1
 \v 12 Her nobles 
@@ -2675,7 +2696,7 @@ be a wasteland; no one will pass through it forever and ever.
 \v 16 Search through the scroll of Yahweh; not one of these will be missing. 
 \q1 None will lack for a mate; for his mouth has commanded it, and his spirit has gathered them.
  \q1
-\v 17 He has cast lots for their places, and his hand has measured it out  for them by a cord. 
+\v 17 He has cast lots for their places, and his hand has measured it out for them by a cord. 
 \q1 They will possess it for ever; from
 generation to generation they will live there.
 
@@ -2724,8 +2745,8 @@ with vengeance,
 
 \s5
 \v 10 The ransomed of Yahweh will return 
-\q1 and come with singing to Zion, and everlasting joy will be on their heads;  
-\q1 gladness and joy will overtake them;  sorrow and sighing will flee away.
+\q1 and come with singing to Zion, and everlasting joy will be on their heads; 
+\q1 gladness and joy will overtake them; sorrow and sighing will flee away.
 
 \s5
 \c 36
@@ -2736,12 +2757,12 @@ with vengeance,
 
 \s5
 \p
-\v 4 The the chief commander said to them, "Tell Hezekiah that the great king, the king of Assyria, says, 'What is the source of your confidence? 
+\v 4 The chief commander said to them, "Tell Hezekiah that the great king, the king of Assyria, says, 'What is the source of your confidence? 
 \v 5 You speak only useless words, saying there is counsel and strength for war. Now in whom are you trusting? Who has given you courage to rebel against me?
 
 \s5
 \v 6 Look, you are trusting in Egypt, that splintered reed that you use as a walking staff, but if a man leans on it, it will stick into his hand and pierce it. That is what Pharaoh king of Egypt is to anyone who trusts in him.
-\v 7 But if you say to me, "We are trusting in Yahweh our God," is not he the one whose shrines and altars Hezekiah has taken away, and has said to Judah and to Jerusalem, "You must worship before this altar in Jerusalem"?
+\v 7 But if you say to me, "We are trusting in Yahweh our God," is not he the one whose high places and altars Hezekiah has taken away, and has said to Judah and to Jerusalem, "You must worship before this altar in Jerusalem"?
 
 \s5
 \v 8 Now therefore, I want to make you a good offer from my master the king of Assyria. I will give you two thousand horses, if you are able to find riders for them.
@@ -2753,16 +2774,16 @@ with vengeance,
 \s5
 \p
 \v 11 Then Eliakim son of Hilkiah, and Shebnah, and Joah said to the chief commander, "Please speak to your servants in the Aramean language, Aramaic, for we understand it. Do not speak with us in the language of Judah in the ears of the people who are on the wall."
-\v 12 But the chief commander said, "Has my master sent me to your master and to you to speak these words?  Has he not sent me to the men who sit on the wall, who will have to eat their own dung and drink their own urine with you?"
+\v 12 But the chief commander said, "Has my master sent me to your master and to you to speak these words? Has he not sent me to the men who sit on the wall, who will have to eat their own dung and drink their own urine with you?"
 
 \s5
 \p
 \v 13 Then the the chief commander stood and shouted in a loud voice in the Jews' language, saying, "Listen to the words of the great king, the king of Assyria.
-\v 14 The king says, 'Do  not  let Hezekiah deceive you, for he will not be able to rescue you.
+\v 14 The king says, 'Do not let Hezekiah deceive you, for he will not be able to rescue you.
 \v 15 Do not let Hezekiah make you trust in Yahweh, saying, "Yahweh will surely rescue us; this city will not be handed over to the king of Assyria."'
 
 \s5
-\v 16   Do not listen to Hezekiah, for this is what the king of Assyria says: 'Make  peace with me and come out to me. Then every one of you will eat from his own vine and from his own fig tree, and drink from the water in his own cistern.
+\v 16  Do not listen to Hezekiah, for this is what the king of Assyria says: 'Make peace with me and come out to me. Then every one of you will eat from his own vine and from his own fig tree, and drink from the water in his own cistern.
 \v 17 You will do this until I come and take you away to a land like your own land, a land of grain and new wine, a land of bread and vineyards.'
 
 \s5
@@ -2789,7 +2810,7 @@ sackcloth, to Isaiah son of Amoz, the prophet.
 \s5
 \p
 \v 5 So the servants of King Hezekiah came to Isaiah,
-\v 6  and Isaiah said to them, "Say to your master: 'Yahweh says, "Do not  be afraid of the words that you have heard, with which the servants of the king of Assyria have insulted me.
+\v 6 and Isaiah said to them, "Say to your master: 'Yahweh says, "Do not be afraid of the words that you have heard, with which the servants of the king of Assyria have insulted me.
 \v 7 Look, I will put a spirit in him, and he will hear a certain report and go back to his own land. I will cause him to fall by the sword in his own land."'"
 
 \s5
@@ -2801,11 +2822,11 @@ sackcloth, to Isaiah son of Amoz, the prophet.
 \s5
 \v 11 See, you have heard what the kings of Assyria have done to all lands by destroying them completely. So will you be rescued?
 \v 12 Have the gods of the nations rescued them, the nations that my fathers destroyed: Gozan, Haran, Rezeph, and the people of Eden in Telassar?
-\v 13 Where are the king of Hamath, the king of Arpad, the king of the cities of Sepharvaim, of Hena, and Ivvah?'"
+\v 13 Where is the king of Hamath, the king of Arpad, the king of the cities of Sepharvaim, of Hena, and Ivvah?'"
 
 \s5
 \p
-\v 14  Hezekiah received this letter from the messengers and read it. Then he went up to the house of Yahweh and spread it before him.
+\v 14 Hezekiah received this letter from the messengers and read it. Then he went up to the house of Yahweh and spread it before him.
 \v 15 Hezekiah prayed to Yahweh: 
 \v 16 "Yahweh of hosts, God of Israel, you who sit above the cherubim, you are God alone over all the kingdoms of the earth. You made the heavens and the earth.
 
@@ -2829,12 +2850,13 @@ sackcloth, to Isaiah son of Amoz, the prophet.
 \q1
 
 \s5
-\v 24 By your servants you have defied the Lord and have said, 'With the multitude of my chariots  
-\q1 I have gone up to the heights of the mountains, to the highest elevations of  Lebanon. 
-\q1 I will cut down its tall cedars and choice fir trees there,
+\v 24 By your servants you have defied the Lord and have said, 'With the multitude of my chariots 
+\q1 I have gone up to the heights of the mountains, to the highest elevations of Lebanon. 
+\q1 I will cut down its tall cedars and choice cypress trees there,
 \q1 and I will enter into its farthest high places, its most fruitful forest.
 \q1
-\v 25 I have dug wells and drank foreign water; 
+\v 25 I have dug wells and drunk water; 
+\f + \ft Some ancient and modern versions have \fqa I have dug wells and drunk water in foreign lands \fqb . \f*
 \q1 I dried up all the rivers of Egypt under the soles of my feet.'
 \p
 \q1 
@@ -2861,7 +2883,7 @@ sackcloth, to Isaiah son of Amoz, the prophet.
 
 \s5
 \v 30 This will be the sign for you: 
-\q1 This year you will eat what grows wild, and in the second year what grows from that.  
+\q1 This year you will eat what grows wild, and in the second year what grows from that. 
 \q1 But in the third year you must plant and harvest, plant vineyards and eat their fruit.
 \q1
 
@@ -2894,13 +2916,13 @@ sackcloth, to Isaiah son of Amoz, the prophet.
 \s5
 \c 38
 \p
-\v 1 In those days Hezekiah was sick to the point of dying. So Isaiah son of Amoz, the prophet, came to him, and said to him, "Yahweh says, 'Set your house in order; for you will die, not live.' "
+\v 1 In those days Hezekiah was sick to the point of dying. So Isaiah son of Amoz, the prophet, came to him, and said to him, "Yahweh says, 'Set your house in order; for you will die, not live.'"
 \v 2 Then Hezekiah turned his face to the wall and prayed to Yahweh.
 \v 3 He said, "Please, Yahweh, call to mind how I have faithfully walked before you with my whole heart, and how I have done what was good in your sight." And Hezekiah wept loudly.
 
 \s5
 \v 4 Then the word of Yahweh came to Isaiah, saying,
-\v 5  "Go and say to Hezekiah, the leader of my people, 'This is what Yahweh, the God of David your ancestor, says: I have heard your prayer, and I have seen your tears. See, I am about to add fifteen years to your life.
+\v 5 "Go and say to Hezekiah, the leader of my people, 'This is what Yahweh, the God of David your ancestor, says: I have heard your prayer, and I have seen your tears. See, I am about to add fifteen years to your life.
 \v 6 And I will rescue you and this city from the power of the king of Assyria, and I will defend this city.
 
 \s5
@@ -2917,6 +2939,7 @@ sackcloth, to Isaiah son of Amoz, the prophet.
 \q1
 \v 11 I said that I will no longer see Yahweh, Yahweh in the land of the living;
 \q1 I will no longer look on mankind or the inhabitants of the world.
+\f + \ft \fqa the inhabitants of the world \fqb : Most modern versions have this meaning. Ancient Hebrew copies have \fqa the inhabitants of the place of non-existence \fqb (that is, brief existence). \f*
 \q1
 
 \s5
@@ -2925,7 +2948,7 @@ sackcloth, to Isaiah son of Amoz, the prophet.
 \q1 between day and night you are ending my life.
 \q1
 \v 13 I cried out until the morning;
-\q1 like a lion he breaks all my bones; Between day and night you are ending my life.
+\q1 like a lion he breaks all my bones. Between day and night you are ending my life.
 \q1
 
 \s5
@@ -2971,7 +2994,7 @@ that Hezekiah had been sick and had recovered.
 
 \s5
 \v 3 Then Isaiah the prophet came to King Hezekiah and asked him, "What did these men say to you? Where did they come from?" Hezekiah said, "They came to me from the distant country of Babylon."
-\v 4 Isaiah asked, "What have they seen in your house?"  Hezekiah answered, "They have seen everything in my house. There is nothing among my valuable things that I have not shown them."
+\v 4 Isaiah asked, "What have they seen in your house?" Hezekiah answered, "They have seen everything in my house. There is nothing among my valuable things that I have not shown them."
 
 \s5
 \v 5 Then Isaiah said to Hezekiah, "Listen to the word of Yahweh of hosts:
@@ -2981,7 +3004,7 @@ will be carried to Babylon. Nothing will be left, says Yahweh.
 \s5
 \v 7 And the sons born from you, whom you yourself have fathered—they will take them away, and they will become eunuchs in the
 palace of the king of Babylon.'"
-\v 8 Then Hezekiah said  to Isaiah, "The word of Yahweh that you have spoken is good." For he thought, "There will be
+\v 8 Then Hezekiah said to Isaiah, "The word of Yahweh that you have spoken is good." For he thought, "There will be
 peace and stability in my days."
 
 \s5
@@ -2990,9 +3013,9 @@ peace and stability in my days."
 \q1
 \v 1 "Comfort, comfort my people," says your God.
 \q1
-\v 2 Speak tenderly to Jerusalem; and proclaim to her
+\v 2 "Speak tenderly to Jerusalem; and proclaim to her
 \q1 that her warfare has ended, that her iniquity is pardoned, 
-\q1 that she has received double from Yahweh's hand for all her sins.
+\q1 that she has received double from Yahweh's hand for all her sins."
 \p
 \q1
 
@@ -3000,6 +3023,7 @@ peace and stability in my days."
 \v 3 A voice cries out, 
 \q1 "In the wilderness prepare the way of Yahweh;
 \q1 make straight in the Arabah a highway for our God." 
+\f + \ft Some older modern versions have \fqa A voice cries out in the wilderness ... \fqb \f*
 \q1
 \v 4 Every valley will be lifted up, and every mountain and hill will be leveled; 
 \q1 and the rugged land will be made level, and the
@@ -3022,7 +3046,9 @@ flower of the field.
 
 \s5
 \v 9 Go up on a high mountain, Zion, bearer of good news; 
-\q1 lift up your voice with strength; proclaim good news to Jerusalem. Cry out loudly; do not be afraid. 
+\f + \ft Instead of \fqa Go up on a high mountain, Zion, bearer of good news \fqb , some versions have \fqa You who are bearing good news to Zion, go up on a high mountain \fqb . \f*
+\q1 lift up your voice with strength. Jerusalem, proclaimer of good news, cry out loudly; do not be afraid. 
+\f + \ft Instead of \fqa Jerusalem, proclaimer of good news \fqb , some versions have \fqa proclaim good news to Jerusalem \fqb . \f*
 \q1 Say to the cities of Judah, "Here is your God!"
 \q1 
 \v 10 Look, the Lord Yahweh comes as a victorious warrior, and his strong arm rules for him.
@@ -3045,7 +3071,7 @@ flower of the field.
 \s5
 \v 13 Who has comprehended the mind of Yahweh, or instructed him as his counselor?
 \q1
-\v 14 From whom did he ever receive instruction?  Who taught him the correct way to do things, 
+\v 14 From whom did he ever receive instruction? Who taught him the correct way to do things, 
 \q1 and taught him knowledge, or showed to him the way of understanding?
 \q1
 
@@ -3053,7 +3079,7 @@ flower of the field.
 \v 15 Look, the nations are like a drop in a bucket, and are regarded like the dust on the scales; 
 \q1 see, he weighs the isles as a speck.
 \q1
-\v 16  Lebanon is not sufficient fuel, 
+\v 16 Lebanon is not sufficient fuel, 
 \q1 nor its wild animals sufficient for a burnt offering.
 \q1
 \v 17 All the nations are insufficient before him; they are regarded by him as nothing.
@@ -3080,25 +3106,25 @@ foundations of the earth?
 \q1
 
 \s5
-\v 23 He  reduces rulers to nothing and makes the rulers of the earth insignificant.
+\v 23 He reduces rulers to nothing and makes the rulers of the earth insignificant.
 \q1
-\v 24 See, they are barely planted; see, they are barely sown; see, they have barely  taken root in the earth, 
+\v 24 See, they are barely planted; see, they are barely sown; see, they have barely taken root in the earth, 
 \q1 before he blows upon them, and they wither, and the wind blows them away like straw.
 \q1
 
 \s5
-\v 25 "To whom then will you compare me, who do I resemble?"
+\v 25 "To whom then will you compare me, whom do I resemble?"
  says the Holy One.
  \q1
 \v 26 Look up at the sky! Who has created all these stars? 
 \q1 He leads out their formations and calls them all by
 name. 
-\q1 By the greatness of his might and by the strength of his  power, not one is missing.
+\q1 By the greatness of his might and by the strength of his power, not one is missing.
 \p
 \q1
 
 \s5
-\v 27 Why do you  say, Jacob and declare, Israel,
+\v 27 Why do you say, Jacob, and declare, Israel,
 \q1 "My way is hidden from Yahweh, and my God is not concerned about my vindication?"
 \q1
 \v 28 Have you not known? Have you not heard? 
@@ -3109,7 +3135,7 @@ name.
 \s5
 \v 29 He gives strength to the tired; and to the weak he gives renewed energy.
 \q1
-\v 30 Even young people become tired and weary, and  young men stumble and fall:
+\v 30 Even young people become tired and weary, and young men stumble and fall:
 \q1
 \v 31 but those who wait for Yahweh will renew their strength; they will soar with wings like eagles;
 \q1 they will run and not be weary; they will walk and not faint.
@@ -3121,9 +3147,9 @@ name.
 \v 1 "Listen before me in silence, you coastlands; let the nations renew their strength; 
 \q1 let them come near and speak; let us come near together to argue a dispute.
 \q1
-\v 2 Who stirred up this one from the east? Who calls him in good order to his service? 
+\v 2 Who stirred up this one from the east? Who calls him in good order to his foot? 
 \q1 He hands nations over to him and makes him able to subdue kings; 
-\q1 he makes them as the dust with his sword, as windblown stubble with his bow.
+\q1 he makes them like the dust with his sword, like windblown stubble with his bow.
 \q1
 
 \s5
@@ -3140,7 +3166,7 @@ name.
 \v 6 Everyone helps his neighbor, and every one says to one another, 'Be encouraged.'
 \q1
 \v 7 So the carpenter encourages the goldsmith, and he who works with the hammer encourages him who works with an anvil,
-\q1 saying of the welding, 'It is good.'  They fasten it with nails so it will not topple over.
+\q1 saying of the welding, 'It is good.' They fasten it with nails so it will not topple over.
 \p
 \q1
 
@@ -3152,7 +3178,7 @@ name.
 \q1 and to whom I said, 'You are my servant;' I have chosen you and not rejected you.
 
 \s5
-\v 10 Do not fear, for I am with you.  Do not be anxious, for I am your God. 
+\v 10 Do not fear, for I am with you. Do not be anxious, for I am your God. 
 \q1 I will strengthen you, and I will help you, and I will uphold you with the right hand of my deserved victory.
 \q1
 
@@ -3166,12 +3192,12 @@ name.
 \q1 those who warred against you will be like nothing, absolutely nothing. 
 \q1
 \v 13 For I, Yahweh your God, will hold your right hand, 
-\q1 saying to you, 'Do not fear; I am helping  you.'
+\q1 saying to you, 'Do not fear; I am helping you.'
 \q1
 
 \s5
 \v 14 Do not fear, Jacob you worm, and you men of Israel; 
-\q1 I will help you"—this is the declaration of Yahweh, your Redeemer,  the Holy One of Israel.
+\q1 I will help you"—this is the declaration of Yahweh, your Redeemer, the Holy One of Israel.
 \q1
 \v 15 "Look, I am making you like a sharp threshing sledge, new and two-edged;
 \q1 you will thresh the mountains and crush them; you will make the hills like chaff.
@@ -3188,15 +3214,14 @@ name.
 \q1 I, Yahweh, will respond to their prayers; I,
 the God of Israel, will not forsake them.
 \q1
-\v 18 I will make streams to flow down  the slopes, and springs in the middle of the valleys; 
+\v 18 I will make streams to flow down the slopes, and springs in the middle of the valleys; 
 \q1 I will make the desert into a pool of
 water, and the dry land into springs of water.
 \q1
 
 \s5
-\v 19 In the wilderness,  the cedar, the acacia, and the myrtle, and the olive tree will grow; 
-\q1 I will cause to grow in the desert together the
-fir tree, the pine, and the cypress.
+\v 19 In the wilderness I will set the cedar, the acacia, and the myrtle, and the olive tree. 
+\q1 I will set the cypress in the desert plain, with the pines and the cypress box trees.
 \q1
 \v 20 I will do this so that the people may see, recognize, and understand together, 
 \q1 that the hand of Yahweh has done this, that the Holy One of Israel has created it.
@@ -3207,7 +3232,7 @@ fir tree, the pine, and the cypress.
 \v 21 Present your case," says Yahweh; 
 \q1 "present your best arguments for your idols," says the King of Jacob.
 \q1
-\v 22 Let them bring us their own arguments; have them come  forward and declare to us what will happen, 
+\v 22 Let them bring us their own arguments; have them come forward and declare to us what will happen, 
 \q1 so we may know these things well.
 \q1 Have them tell us of earlier predictive declarations, so we can reflect on them and know how they were fulfilled.
 \q1
@@ -3254,7 +3279,7 @@ fir tree, the pine, and the cypress.
 \q1
 \v 4 He will not grow faint nor be discouraged 
 \q1 until he has established justice on the earth; 
-\q1  and the coastlands wait for his law.
+\q1 and the coastlands wait for his law.
 \p
 \q1
 
@@ -3264,7 +3289,7 @@ fir tree, the pine, and the cypress.
 \q1 he who gives breath to the people on it, and life to those who live on it:
 \q1
 \v 6 "I, Yahweh, have called you in righteousness and will hold your hand.
-\q1 I will keep you and set you as covenant for the people, as a light for the Gentiles,
+\q1 I will keep you and set you as a covenant for the people, as a light for the Gentiles,
 \q1
 
 \s5
@@ -3366,14 +3391,14 @@ fir tree, the pine, and the cypress.
 \q1
 \v 3 For I am Yahweh your God, the Holy One of Israel, your Savior.
 \q1 I have given Egypt as your ransom, Ethiopia and Seba in exchange for you.
-      
+   
 \q1
 
 \s5
 \v 4 Since you are precious and special in my sight, I love you; 
 \q1 therefore I will give people in exchange for you, and other peoples in exchange for your life.
 \q1
-\v 5 Do  not be afraid, for I am with you; 
+\v 5 Do not be afraid, for I am with you; 
 \q1 I will bring your offspring from the east, and gather you from the west.
 \q1
 
@@ -3381,7 +3406,7 @@ fir tree, the pine, and the cypress.
 \v 6 I will say to the north, 'Hand them over;' and to the south, 'Do not hold any back;'
 \q1 Bring my sons from afar, and my daughters from the remote regions of the earth,
 \q1
-\v 7 everyone who is called  by my name, whom I have created for my glory, 
+\v 7 everyone who is called by my name, whom I have created for my glory, 
 whom I have formed, yes, whom I have made.
 \p
 \q1
@@ -3392,7 +3417,7 @@ whom I have formed, yes, whom I have made.
 \v 9 All the nations gather together, and the peoples assemble. 
 \q1 Who among them could have declared this and announced to us
 earlier events? 
-\q1 Let them bring their witnesses to prove themselves right,  let them listen and affirm, 'It is true.'
+\q1 Let them bring their witnesses to prove themselves right, let them listen and affirm, 'It is true.'
 \q1
 
 \s5
@@ -3415,7 +3440,7 @@ god among you.
 \q1
 
 \s5
-\v 14 This is what  Yahweh says, your Redeemer, the Holy One of Israel: 
+\v 14 This is what Yahweh says, your Redeemer, the Holy One of Israel: 
 \q1 "For your sake I send to Babylon and lead them all down as fugitives, 
 \q1 turning the Babylonians' expressions of joy into songs of lamentation.
 \q1
@@ -3447,7 +3472,7 @@ god among you.
 \q1
 
 \s5
-\v 22 But you have not called on me, Jacob; you have become tired of  me, Israel.
+\v 22 But you have not called on me, Jacob; you have become tired of me, Israel.
 \q1
 \v 23 You have not brought me any of your sheep as burnt offerings; 
 \q1 nor have you honored me with your sacrifices. I have not burdened you with grain offerings, nor wearied you with incense offering.
@@ -3489,7 +3514,7 @@ you, Jeshurun, whom I have chosen.
 \q1
 
 \s5
-\v 5 One will say, 'I am Yahweh's;' and another will  be named after Jacob; 
+\v 5 One will say, 'I am Yahweh's;' and another will be named after Jacob; 
 \q1 and another will write on his hand 'Belonging to Yahweh' and be called by the name of Israel."
 \p
 \q1
@@ -3501,7 +3526,7 @@ you, Jeshurun, whom I have chosen.
 
 \s5
 \v 7 Who is like me? Let him announce it and explain to me 
-\q1 the events that occurred since I established my  ancient people, and let them declare the events to come.
+\q1 the events that occurred since I established my ancient people, and let them declare the events to come.
 \q1
 
 \s5
@@ -3511,7 +3536,7 @@ you, Jeshurun, whom I have chosen.
 \q1
 
 \s5
-\v 9 All who fashion idols  are nothing;  the things they delight in are worthless; 
+\v 9 All who fashion idols are nothing; the things they delight in are worthless; 
 \q1 their witnesses cannot see or know anything, and they will be put to shame.
 \q1
 \v 10 Who would form a god or cast an idol that is worthless?
@@ -3519,7 +3544,7 @@ you, Jeshurun, whom I have chosen.
 
 \s5
 \v 11 Look, all his associates will be put to shame; the craftsmen are only men. 
-\q1 Let them take their stand together;  they will cower and be put to shame.
+\q1 Let them take their stand together; they will cower and be put to shame.
 \p
 \q1
 
@@ -3532,7 +3557,7 @@ you, Jeshurun, whom I have chosen.
 \s5
 \v 13 The carpenter measures the wood with a line, and marks it with a stylus. 
 \q1 He shapes it with his tools and marks it out with a compass. 
-\q1 He shapes it after the figure of a man, like an  attractive human, so it may stay  in a shrine.
+\q1 He shapes it after the figure of a man, like an attractive human, so it may stay in a house.
 \q1
 
 \s5
@@ -3541,10 +3566,10 @@ you, Jeshurun, whom I have chosen.
 \q1
 
 \s5
-\v 15 Then a man uses it for a fire  and warms himself. Yes, he kindles a fire and bakes bread.
-\q1 Then he makes from it a god and bows down to it; he make an idol and bows down to it.
+\v 15 Then a man uses it for a fire and warms himself. Yes, he kindles a fire and bakes bread.
+\q1 Then he makes from it a god and bows down to it; he makes an idol and bows down to it.
 \q1
-\v 16 He burns part of the wood for the fire,  roasting his meat over it. He eats and is satisfied.
+\v 16 He burns part of the wood for the fire, roasting his meat over it. He eats and is satisfied.
 \q1 He warms himself and says, "Ah, I am warm, I have seen the fire."
 \q1
 
@@ -3562,7 +3587,7 @@ you, Jeshurun, whom I have chosen.
 \v 19 No one thinks, nor do they comprehend and say, 
 \q1 "I have burned part of the wood in the fire; yes,
 I have also baked bread upon its coals. I have roasted meat over its coals and eaten. 
-\q1 Now  should I make the other part of the wood into  something disgusting to worship? Should I bow down to a block of wood?"
+\q1 Now should I make the other part of the wood into something disgusting to worship? Should I bow down to a block of wood?"
 \q1
 
 \s5
@@ -3588,7 +3613,7 @@ I have also baked bread upon its coals. I have roasted meat over its coals and e
 \s5
 \v 24 This is what Yahweh says, your Redeemer, he who formed you from the womb: 
 \q1 "I am Yahweh, who made everything, 
-\q1 who alone stretched out the heavens, who alone fashioned  the earth.
+\q1 who alone stretched out the heavens, who alone fashioned the earth.
 \q1
 \v 25 I who frustrate the omens of the empty talkers and who disgrace those who read omens; 
 \q1 I who overturn the wisdom of the wise and make their advice foolish.
@@ -3718,7 +3743,7 @@ besides me.
 \q1 for I am God, and there is no other god.
 \q1
 \v 23 'By myself I swear, 
-\q1 speaking my just decree, and it will not turn back:  
+\q1 speaking my just decree, and it will not turn back: 
 \q1 To me every knee will bend, every tongue will swear,
 \q1
 
@@ -3736,7 +3761,7 @@ besides me.
 \q1 weigh down the animals carrying them. These idols they carry about are a heavy burden to the weary animals. 
 \q1
 \v 2 Together they bend low, kneel down; they cannot rescue the images, 
-\q1 and they themselves have gone off  into captivity.
+\q1 and they themselves have gone off into captivity.
 \p
 \q1
 
@@ -3756,13 +3781,13 @@ besides me.
 \q1
 
 \s5
-\v 7 They lift it on their shoulder and carry it;  they set it in its place, and it stands in its place and does not move from it. 
+\v 7 They lift it on their shoulder and carry it; they set it in its place, and it stands in its place and does not move from it. 
 \q1 They cry out to it, but it cannot answer nor save anyone from his trouble.
 \p
 \q1
 
 \s5
-\v 8 Think about these things; never ignore them,  you rebels!
+\v 8 Think about these things; never ignore them, you rebels!
 \q1
 \v 9 Think about the earlier things, those of times past, 
 \q1 for I am God, and there is no other, I am God, and there is no one like me.
@@ -3804,12 +3829,12 @@ it; I have purposed, I will also do it.
 the Holy One of Israel.
 \q1
 \v 5 Sit in silence and go into darkness, daughter of the Chaldeans; 
-\q1 for you will no longer be called Queen of kingdoms.
+\q1 for you will no longer be called queen of kingdoms.
 \q1
 
 \s5
-\v 6  I was angry with my people; I defiled my heritage 
-\q1 and gave them over into your hand, but you showed  them no mercy;
+\v 6 I was angry with my people; I defiled my heritage 
+\q1 and gave them over into your hand, but you showed them no mercy;
 \q1 you placed a very heavy yoke on the old people.
 \q1
 \v 7 You said, "I will rule forever as sovereign queen."
@@ -3832,7 +3857,7 @@ the Holy One of Israel.
 \q1 your wisdom and your knowledge lead you astray,
 \q1 but you say in your heart, "I exist, and there is no one else like me."
 \q1
-\v 11 Disaster will overcome you; you will not be able to drive it away with your incantations.  
+\v 11 Disaster will overcome you; you will not be able to drive it away with your incantations. 
 \q1 Destruction will fall on you; you will not be able to ward it off.
 \q1 Calamity will strike you suddenly, before you know it.
 \p
@@ -3968,8 +3993,8 @@ very deceitful, and that you have been a rebel from birth.
 \s5
 \v 3 He said to me, "You are my servant, Israel, through whom I show my glory."
 \q1
-\v 4 Though I thought I have labored in vain, I have spent my energy for nothing, 
-\q1 yet my justice is with Yahweh, and my reward is with my God.
+\v 4 But I replied, "Though I thought I have labored in vain, I have spent my energy for nothing, 
+\q1 yet my justice is with Yahweh, and my reward is with my God."
 \p
 \q1
 
@@ -4039,7 +4064,7 @@ very deceitful, and that you have been a rebel from birth.
 \q1 now you will be too small for the inhabitants, and those who devoured you will be far away.
 \q1
 \v 20 The children born during the time of your bereavement will say in your hearing, 
-\q1 'The place is too cramped for us, make room for us,  so we may live here.'
+\q1 'The place is too cramped for us, make room for us, so we may live here.'
 \q1
 
 \s5
@@ -4065,7 +4090,8 @@ faces to the earth and lick the dust of your feet;
 \q1
 
 \s5
-\v 24 Can the spoils be taken from the warrior, or captives be rescued from a tyrant?
+\v 24 Can the spoils be taken from the warrior, or captives be rescued from the fierce?
+\f + \ft Instead of \fqa from the fierce \fqb , the Hebrew text has \fqa from the righteous \fqb , but most modern versions correct it to \fqa from the fierce \fqb . \f*
 \q1
 \v 25 But this is what Yahweh says,
 \q1 "Yes, the captives will be taken away from the warrior, and spoils will be rescued; 
@@ -4150,14 +4176,14 @@ it were wine;
 \q1
 
 \s5
-\v 3 Yes, Yahweh will comfort Zion; he will comfort all her waste places;  
+\v 3 Yes, Yahweh will comfort Zion; he will comfort all her waste places; 
 \q1 her wilderness he made like Eden, and her desert plains beside the Jordan River valley like the garden of Yahweh; 
 \q1 joy and gladness will be found in her, thanksgiving, and the sound of singing.
 \p
 \q1
 
 \s5
-\v 4 "Be attentive to me, my people; and listen to me, my people!  
+\v 4 "Be attentive to me, my people; and listen to me, my people! 
 \q1 For I will issue a decree, and I will make my justice to be a light for the nations.
 \q1
 \v 5 My righteousness is near; my salvation will go out, and my arm will judge the nations; 
@@ -4198,7 +4224,7 @@ earth will wear out like a garment, and its inhabitants will die like flies.
 
 \s5
 \v 12 "I, I, am he who comforts you. 
-\q1 Why are you afraid of men, who will die, the sons of men, who are made like grass?
+\q1 Why are you afraid of men, who will die, the sons of mankind, who are made like grass?
 \q1
 
 \s5
@@ -4222,7 +4248,7 @@ earth will wear out like a garment, and its inhabitants will die like flies.
 \s5
 \v 17 Awake, awake, stand up, Jerusalem, 
 \q1 you who drank the bowl of Yahweh's anger from his hand;
-\q1 you drank the bowl,  the bowl of staggering, and you drained it.
+\q1 you drank the bowl, the bowl of staggering, and you drained it.
 \q1
 \v 18 There is no one among all the sons she has born to guide her; 
 \q1 there is no one among all the sons that she has raised to take her by the hand.
@@ -4230,7 +4256,8 @@ earth will wear out like a garment, and its inhabitants will die like flies.
 
 \s5
 \v 19 These two troubles happened to you—who will grieve with you?— 
-\q1 desolation and destruction, and the famine and the sword. Who will console you?
+\q1 desolation and destruction, and the famine and the sword. Who will comfort you?
+\f + \ft The Hebrew text and some modern versions have \fqa How will I comfort you? \fqb , most modern versions correct this passage to \fqa Who will comfort you? \fqb  \f*
 \q1
 \v 20 Your sons have fainted; they lie at every street corner, like an antelope in a net; 
 \q1 they are filled with the anger of Yahweh, the rebuke of your God.
@@ -4272,7 +4299,8 @@ earth will wear out like a garment, and its inhabitants will die like flies.
 \q1
 
 \s5
-\v 5 Now what do I have here—this is Yahweh's declaration—seeing that my people are taken away for nothing? Those who rule over them wail—this is Yahweh's declaration—and my name is slandered continually all day long.
+\v 5 Now what do I have here—this is Yahweh's declaration—seeing that my people are taken away for nothing? Those who rule over them mock—this is Yahweh's declaration—and my name is slandered continually all day long.
+\f + \ft Instead of \fqa mock \fqb , some versions identify a different Hebrew word meaning \fqa wail \fqb . \f*
 \q1
 \v 6 Therefore my people will know my name;
 \q1 they will know in that day that I am the one who said this. Yes, it is I!"
@@ -4307,7 +4335,7 @@ earth will wear out like a garment, and its inhabitants will die like flies.
 \q1
 
 \s5
-\v 13 Look, my servant will deal wisely and will be successful; 
+\v 13 Look, my servant will be successful; 
 \q1 he will be high and elevated; he will be very exalted.
 \q1
 \v 14 As many were horrified at you—
@@ -4315,7 +4343,7 @@ earth will wear out like a garment, and its inhabitants will die like flies.
 \q1
 
 \s5
-\v 15 so he will startle many nations; kings will close their mouths because  of him. 
+\v 15 so he will startle many nations; kings will close their mouths because of him. 
 \q1 That which they had not been told, they will see, and that which they had not heard, they will understand.
 
 \s5
@@ -4360,19 +4388,21 @@ sheep that before its shearers is silent,
 
 \s5
 \v 8 By coercion and judgment he was condemned; who from that generation thought anymore about him?
-\q1 But he was cut off from the land of the living;  because of the offenses of my people the penalty was put on him.
+\q1 But he was cut off from the land of the living; because of the offenses of my people the penalty was put on him.
 \q1
-\v 9 They intended to make his grave with the criminals, with a rich man in his death,
+\v 9 They placed his grave with the criminals, with a rich man in his death,
 \q1 although he had done no violence, nor had there been any deceit in his mouth.
 \p
 \q1
 
 \s5
-\v 10 Yet it was Yahweh's will to crush him and make him ill; and if he makes his life an offering for sin, 
+\v 10 Yet it was Yahweh's will to crush him and make him ill. When he makes his life an offering for sin, 
 \q1 he will see his offspring, he will prolong his days, and Yahweh's purpose will be accomplished through him.
 \q1
-\v 11 After he had suffered, he will see and be satisfied by the knowledge of what he had done.
+\v 11 After the suffering of his life, he will see light and be satisfied by his knowledge.
+\f + \ft Instead of \fqa After the suffering of his life \fqb , some modern versions have \fqa From the suffering of his life he will see the result \fqb . \f*
 \q1 My righteous servant will justify many; he will bear their iniquities.
+\f + \ft Many modern versions supply \fqa light \fqb . Some modern versions have \fqa By his knowledge, my righteous servant will justify many \fqb . \f*
 \q1
 
 \s5
@@ -4384,12 +4414,12 @@ sheep that before its shearers is silent,
 \c 54
 \p
 \q1
-\v 1 "Sing, you barren woman, you who have not given birth; break into  joyful singing and cry aloud, you who have never been in birth labor.
+\v 1 "Sing, you barren woman, you who have not given birth; break into joyful singing and cry aloud, you who have never been in birth labor.
 \q1 For the children of the desolate one are more than the children of the married woman," says Yahweh.
 \q1
 
 \s5
-\v 2 Make your tent larger and spread your tent  curtains farther out, unsparingly; 
+\v 2 Make your tent larger and spread your tent curtains farther out, unsparingly; 
 \q1 lengthen your ropes and strengthen your stakes.
 \q1
 \v 3 For you will spread out to the right hand and to the left, 
@@ -4434,7 +4464,7 @@ your God.
 \v 11 Afflicted one, storm-driven and uncomforted one, 
 \q1 look, I will set your pavement in turquoise, and lay your foundations with sapphires.
 \q1
-\v 12 I will make your pinnacles of rubies  and your gates of sparkling stones, 
+\v 12 I will make your pinnacles of rubies and your gates of sparkling stones, 
 \q1 and your outer wall of beautiful stones.
 \q1
 
@@ -4443,7 +4473,7 @@ your God.
 \q1 and the peace of your children will be great.
 \q1
 \v 14 In righteousness I will reestablish you. 
-\q1 You  will no longer experience persecution, for you will not be afraid, and nothing frightening will come near you.
+\q1 You will no longer experience persecution, for you will not be afraid, and nothing frightening will come near you.
 \q1
 
 \s5
@@ -4492,7 +4522,7 @@ your God.
 \q1
 
 \s5
-\v 8 "For my thoughts are not your thoughts, nor are your ways my ways—this is Yahweh's declaration of Yahweh—
+\v 8 "For my thoughts are not your thoughts, nor are your ways my ways—this is Yahweh's declaration—
 \q1
 \v 9 for as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.
 \q1
@@ -4502,7 +4532,7 @@ your God.
 \q1 and do not return there unless they saturate the earth
 \q1 and make it produce and sprout and give seed to the sower and bread to the eater,
 \q1
-\v 11 so also my word will be that goes from my mouth: it  will not return to me uselessly,
+\v 11 so also my word will be that goes from my mouth: it will not return to me useless,
 \q1 but it will accomplish that which I wish, and it will succeed in that for which I sent it.
 \q1
 
@@ -4510,7 +4540,7 @@ your God.
 \v 12 For you will go out in joy and be led along peacefully; 
 \q1 the mountains and the hills will break out in joyful shouts before you, and all the trees of the fields will clap their hands.
 \q1
-\v 13 Instead of the thornbushes, evergreens will grow; and instead of the brier, the myrtle tree will grow, 
+\v 13 Instead of the thornbushes, the cypress will grow; and instead of the brier, the myrtle tree will grow, 
 \q1 and it will be for Yahweh, for his name, as an everlasting sign that will not be cut off."
 
 \s5
@@ -4536,16 +4566,16 @@ your God.
 \q1
 \v 5 To them I will set up in my house and within my walls a monument that is better than having sons and of daughters;
 \q1
-I will give them an everlasting monument that will not be cut off."
+I will give them an everlasting monument that will not be cut off.
 \p
 \q1
 
 \s5
 \v 6 Also foreigners who join themselves to Yahweh, 
 \q1 to serve him, and who love the name of Yahweh, to worship him,
-\q1 every one who  observes the Sabbath and who keeps from defiling it, and who holds fast my covenant,
+\q1 every one who observes the Sabbath and who keeps from defiling it, and who holds fast my covenant,
 \q1
-\v 7 "These I will bring to my holy mountain and make them joyful in my house of prayer; 
+\v 7 These I will bring to my holy mountain and make them joyful in my house of prayer; 
 \q1 their burnt offerings and their sacrifices will be accepted on my altar.
 \q1 For my house will be called a house of prayer for all nations,
 \q1
@@ -4567,9 +4597,9 @@ I will give them an everlasting monument that will not be cut off."
 \s5
 \v 11 The dogs have big appetites; they can never get enough; 
 \q1 they are shepherds without discernment; 
-\q1 they have all  turned to their own way, each one covetous for unjust gain.
+\q1 they have all turned to their own way, each one covetous for unjust gain.
 \q1
-\v 12 "Come," they say, "Let us drink wine and liquor; 
+\v 12 "Come," they say, "let us drink wine and liquor; 
 \q1 tomorrow will be like today, a day great beyond measure."
 
 \s5
@@ -4586,7 +4616,7 @@ I will give them an everlasting monument that will not be cut off."
 \q1
 
 \s5
-\v 3 But draw near, you sons of the sorceress,  
+\v 3 But come here, you sons of the sorceress, 
 \q1 children of the adulterer and the woman who has prostituted herself.
 \q1
 \v 4 Whom are you merrily mocking? 
@@ -4614,7 +4644,8 @@ I will give them an everlasting monument that will not be cut off."
 \q1
 
 \s5
-\v 9 You went to the king with oil; you multiplied  perfumes.
+\v 9 You went to Molech with oil; you multiplied perfumes.
+\f + \ft Instead of \fqa to Molech \fqb , some versions have \fqa to the king \fqb . \f*
 \q1 You send your ambassadors far away; you went down to sheol.
 \q1
 \v 10 You were tired from your long journey, but you never said, "It is hopeless." 
@@ -4673,12 +4704,12 @@ with him also that is of a crushed and humble spirit,
 \c 58
 \p
 \q1
-\v 1 "Cry loudly, do not hold back, lift up your voice like a trumpet, 
-\q1 confront my people with their rebellion, and the house of Jacob with their sins.
+\v 1 "Cry loudly; do not hold back. Lift up your voice like a trumpet. 
+\q1 Confront my people with their rebellion, and the house of Jacob with their sins.
 \q1
 \v 2 Yet they seek me daily and delight in the knowledge of my ways, 
 \q1 like a nation that practiced righteousness and did not abandon the law of their God. 
-\q1 They ask me for righteous judgments; they take pleasure in God drawing near.
+\q1 They ask me for righteous judgments; they take pleasure in the thought of God coming near.
 \q1
 
 \s5
@@ -4687,7 +4718,7 @@ with him also that is of a crushed and humble spirit,
 \q1
 
 \s5
-\v 4 Look, you fast to quarrel and fight, and to hit  with your fist of wickedness;
+\v 4 Look, you fast to quarrel and fight, and to hit with your fist of wickedness;
 \q1 you do not fast today to make your voice heard above.
 \q1
 \v 5 Is this really the kind of fast that I would want: A day for anybody to humble himself, 
@@ -4737,7 +4768,7 @@ go before you, and the glory of Yahweh would be your rearguard.
 \q1
 
 \s5
-\v 14 "Then you will find delight in Yahweh; and I will make you ride on the high places of the earth; 
+\v 14 "Then you will find delight in Yahweh; and I will make you ride on the heights of the earth; 
 \q1 I will feed you from the inheritance of Jacob your father—for the mouth of Yahweh has spoken."
 
 \s5
@@ -4816,14 +4847,13 @@ for him, and his righteousness sustained him.
 
 \s5
 \v 17 He put on righteousness as a breastplate and a helmet of salvation upon his head. 
-\q1 He clothed himself with garments of
-vengeance and wore zeal as a mantle.
+\q1 He clothed himself with garments of vengeance and wore zeal as a mantle.
 \q1
 \v 18 He repaid them for what they had done, angry judgment to his adversaries, vengeance to his enemies, to the islands punishment as their reward.
 \q1
 
 \s5
-\v 19 So they will fear the name of Yahweh from the west, and  his glory from the sun's rising; for he will come as a
+\v 19 So they will fear the name of Yahweh from the west, and his glory from the sun's rising; for he will come as a
 rushing stream, driven by the breath of Yahweh.
 \q1
 \v 20 "A redeemer will come to Zion and to those who turn from their rebellious deeds in Jacob—this is Yahweh's declaration.
@@ -4884,9 +4914,8 @@ of the nations may be brought, with their kings being led.
 \s5
 \v 12 Indeed, nations and kingdoms that will not serve you will perish; those nations will be completely destroyed.
 \q1
-\v 13 The glory of Lebanon will come to you, the cypress tree, the fir, and the pine together, 
-\q1 to beautify my
-sanctuary; and I will glorify the place of my feet.
+\v 13 The glory of Lebanon will come to you, the cypress tree, the fir, and the cypress box tree together, 
+\q1 to beautify my sanctuary; and I will glorify the place of my feet.
 \q1
 
 \s5
@@ -4923,7 +4952,7 @@ the days of your mourning will be ended.
 \q1
 
 \s5
-\v 21 All your people will be righteous; they will  take possession of the land for all time, 
+\v 21 All your people will be righteous; they will take possession of the land for all time, 
 \q1 the branch of my planting, the work of my
 hands, that I may be glorified.
 \q1
@@ -4935,9 +4964,9 @@ hands, that I may be glorified.
 \p
 \q1
 \v 1 The Spirit of the Lord Yahweh is on me, because Yahweh has anointed me 
-\q1 to proclaim good news to the humble. He has
+\q1 to proclaim good news to the afflicted. He has
 sent me to heal the brokenhearted, 
-\q1 to proclaim liberty to the captives, and the opening of the prison to those who are bound.
+\q1 to proclaim liberty to the captives, and the opening of the prison for those who are bound.
 \q1
 
 \s5
@@ -5026,14 +5055,14 @@ brightly, and her salvation as a burning torch.
 \q1 Foreigners will not drink your new wine, for which you have worked.
 \q1
 \v 9 For those who harvest the grain will eat it and praise Yahweh, 
-\q1 and those who pick the grapes will drink the wine in the courts of my  holy sanctuary."
+\q1 and those who pick the grapes will drink the wine in the courts of my holy sanctuary."
 \p
 \q1
 
 \s5
 \v 10 Come through, come through the gates! Prepare the way for the people! 
-\q1 Build it, build  the highway! Gather out the stones!
-\q1 Raise  up a signal flag for the nations!
+\q1 Build it, build the highway! Gather out the stones!
+\q1 Raise up a signal flag for the nations!
 \q1
 
 \s5
@@ -5055,7 +5084,7 @@ brightly, and her salvation as a burning torch.
 \q1
 
 \s5
-\v 3 I have trodden grapes in the winepress alone, and no one from the nations joined me.  
+\v 3 I have trodden grapes in the winepress alone, and no one from the nations joined me. 
 \q1 I trod them in my anger and trampled them in my fury. 
 \q1 Their blood is spattered on my clothes and stained all my clothes.
 \q1
@@ -5074,7 +5103,7 @@ brightly, and her salvation as a burning torch.
 \s5
 \v 7 I will tell of the acts of Yahweh's covenant faithfulness, the praiseworthy deeds of Yahweh. 
 \q1 I will tell of all that Yahweh has done for us, and of his great goodness to the house of Israel. 
-\q1 This compassion he has shown us because of his mercy, and with many deeds of  covenant faithfulness.
+\q1 This compassion he has shown us because of his mercy, and with many deeds of covenant faithfulness.
 \q1
 \v 8 For he said, "For certain they are my people, children who are not disloyal." 
 \q1 He became their Savior.
@@ -5094,7 +5123,7 @@ brightly, and her salvation as a burning torch.
 \q1
 
 \s5
-\v 11 His people thought about the ancient times of  Moses.
+\v 11 His people thought about the ancient times of Moses.
 \q1 They said, "Where is God, who brought them up out of the sea with the shepherds of his flock? 
 \q1 Where is God, who put his Holy Spirit among them?
 \q1
@@ -5169,7 +5198,7 @@ leaves; our iniquities, like the wind, carry us away.
 \v 8 And yet, Yahweh, you are our father; 
 \q1 we are the clay. You are our potter; and we all are the work of your hand.
 \q1
-\v 9 Be not too angry, Yahweh, nor always call to  mind against us our sins. 
+\v 9 Be not too angry, Yahweh, nor always call to mind against us our sins. 
 \q1 Please look at us all, your people.
 \q1
 
@@ -5186,7 +5215,7 @@ leaves; our iniquities, like the wind, carry us away.
 \c 65
 \p
 \q1
-\v 1 "I was ready to be sought out by those who did not ask; I was ready to be found by those who did not seek.  
+\v 1 "I was ready to be sought out by those who did not ask; I was ready to be found by those who did not seek. 
 \q1 I said, 'Here I am! Here I am!' to a nation that did not call on my name.
 \q1
 \v 2 I have spread out my hands all day to a stubborn people, 
@@ -5245,7 +5274,7 @@ burns all day long.
 \q1
 
 \s5
-\v 13 This is what  the Lord Yahweh says,
+\v 13 This is what the Lord Yahweh says,
 \q1 "Look, my servants will eat, but you will be hungry; 
 \q1 look, my servants will drink, but you will be thirsty; 
 \q1 look, my servants will rejoice, but you will be put to shame.
@@ -5276,10 +5305,10 @@ will swear by me, the God of truth,
 \q1
 
 \s5
-\v 20 Never again will an infant live there only a few  days; 
+\v 20 Never again will an infant live there only a few days; 
 \q1 nor will an old man die before his time. 
 \q1 One who dies at one hundred years old will be considered a young person. 
-\q1 A sinner who dies at one hundred years old will be considered cursed.
+\q1 Anyone who does not reach one hundred years old will be considered cursed.
 \q1
 \v 21 They will build houses and inhabit them, and they will plant vineyards and eat their fruit.
 \q1
@@ -5304,7 +5333,7 @@ will swear by me, the God of truth,
 \p
 \q1
 \v 1 This is what Yahweh says,
-\q1 "Heaven is my throne, and the earth is my footstool. Where then is the house you will build for me? Where is the place where I  may rest?
+\q1 "Heaven is my throne, and the earth is my footstool. Where then is the house you will build for me? Where is the place where I may rest?
 \q1
 
 \s5
@@ -5385,14 +5414,16 @@ stream.
 \q1
 
 \s5
-\v 17 They dedicate themselves to Yahweh and make themselves pure, so they may enter the gardens, following those who 
+\v 17 They dedicate themselves to Yahweh and make themselves pure, so they may enter the gardens, following the one in the middle of those who 
 \q1 eat the flesh of pig and abominable things like mice. 
+\f + \ft This verse is very difficult, and modern versions provide various interpretations. \f*
 \q1 "They will come to an end—this is Yahweh's declaration.
 
 \s5
 \p
 \v 18 For I know their deeds and their thoughts. The time is coming when I will gather all nations and languages. They will come and will see my glory.
-\v 19  I will set a mighty sign among them. Then I will send survivors from them to the nations: To Tarshish, Put, and Lud, archers who draw their bows, to Tubal, Javan, and to the distant coastlands where they have not heard about me nor seen my glory. They will proclaim my glory among the nations.
+\f + \ft This verse is very difficult, and modern versions provide various interpretations. \f*
+\v 19 I will set a mighty sign among them. Then I will send survivors from them to the nations: To Tarshish, Put, and Lud, archers who draw their bows, to Tubal, Javan, and to the distant coastlands where they have not heard about me nor seen my glory. They will proclaim my glory among the nations.
 
 \s5
 \v 20 They will bring back all your brothers out of all the nations, as an offering to Yahweh. They will come on horses, and in chariots, in wagons, on mules, and on camels, to my holy mountain Jerusalem—says Yahweh. For the people of Israel will bring a grain offering in a clean vessel into the house of Yahweh.
@@ -5411,5 +5442,5 @@ stream.
 
 \s5
 \v 24 They will go out and see the dead bodies of the men who have rebelled against me, 
-\q1 for the worms that eat them will not die, and the  fire that consumes them will not be quenched; 
+\q1 for the worms that eat them will not die, and the fire that consumes them will not be quenched; 
 \q1 and it will be an abhorrence to all flesh."
