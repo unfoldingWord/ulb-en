@@ -1,4 +1,5 @@
 # Unlocked Literal Bible
-More information at https://unfoldingword.org/ulb/
 
-Please submit issues that are found to the issue tracker at https://github.com/Door43/ulb-en/issues.
+This repository has moved to https://git.door43.org/Door43/en_ulb.
+
+See https://unfoldingword.org/ulb/ for the officially released versions.
